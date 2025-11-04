@@ -24,8 +24,7 @@
 | Ashe | Warrensville Baptist Church | 130 Church St., Warrensville | 336-384-3044 | 2nd Sat monthly, 9:30 to 11:30 a.m. |
 | Avery | Feeding Avery Families Food Pantry | 189 Old Vale Road, Newland | 828-783-8506 | Fri, 9:30 to 11:30 a.m. & 12:30 to 2:30 p.m. |
 | Avery | Reaching Avery Ministry | 147 New Vale Road, Newland | 828-733-5127 | Mon-Fri, 10 a.m. to 4 p.m. |
-| Beaufort | Eagle's Wings | 932 W. 3rd Street Washington | 252-975-1138 | Tuesday: 9 a.m. to 11 a.m. & 2 p.m. to 4 p.m. |
-(Closed the 5th Tuesday of the Month) |
+| Beaufort | Eagle's Wings | 932 W. 3rd Street Washington | 252-975-1138 | Tuesday: 9 a.m. to 11 a.m. & 2 p.m. to 4 p.m (Closed the 5th Tuesday of the Month) |
 | Beaufort | Primera Iglesia Alfa y Omega | 4770 HWY 17 N Washington | 252-975-1138 | La primera jueves de cada mes 10 a. m  to 11:30 p.m. |
 | Bertie | Good Shepherd Food Pantry | 819 Governors Road, Windsor | 252-794-1095 | Every 2nd and 3rd Saturday 10 a.m. to 1 p.m. and Wednesday, Thursday Saturdays 11 a.m. to 2 p.m. |
 | Bladen | First Baptist Church of Bladenboro | 500 S. Main Street, Bladenboro | 910-863-3618 | Second Saturdays 9 a.m. to 11 a.m. |
