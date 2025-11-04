@@ -5,9 +5,12 @@
 | Alamance | Blessed Sacrament/Little Portions Food Pantry | 710 Koury Drive Burlington | 336-226-8796 | 3rd Saturday of the month, 10 a.m. to 12 p.m. |
 | Alamance | Breakthrough Community Church Food Pantry | 703 S Third St, Mebane | 919-563-2867 | Tue 9 a.m. to 10:30 a.m.; Sat 9 a.m. to 10:30 a.m. |
 | Alamance | Bridging the Gap We Care Pantry | 2619 Green Level Church Rd., Green Level | 336-266-0580 | 3rd Saturday of each month 9:30 a.m. to 11:30 a.m.; 2nd and 4th Tuesday 3 p.m. - 5 p.m. |
+| Alamance | Gethsemane Christian Church | 1650 Burch Bridge Road Burlington | 336-270-6136 | M & W: 10 AM - 11:30 AM (Bread/Pastries Only); Sa: 8 AM - until (4th Saturday of each month) |
+| Alamance | Glen Hope Baptist Church Food Pantry | 911 North Ave, Burlington | 336-226-3325 | Please Call |
 | Alexander | Christian Crisis Center | 215 Fifth Ave. SW., Taylorsville | 828-632-0022 | Mon-Fri, 9 a.m. to noon|
 | Alexander | Hiddenite Community Helpers | 45 Fire Department Court, Hiddenite | 828-320-5266 | Tue & Thu, 3 to 5:45 p.m. |
 | Alexander | Stony Point Christian Ministries | 411 Ruritan Park Road, Stony Point | 704-585-6521 | Mon, 10 a.m. to 1 p.m. |
+| Alleghany | Solid Rock Food Closet | 71 Womble St, Sparta | 336-372-6560 | Tues, Wed, & Thurs 10 a.m. – 2:00 p.m. |
 | Anson | Anson Crisis Ministry | 117 N. Rutherford St., Wadesboro | 704-694-2445 | Tue-Fri, 8 a.m. to 1 p.m. |
 | Anson | Burnsville Recreation and Learning | 13349 Highway 742 N., Burnsville | 704-826-8737 | Wed, 9 to 11:30 a.m. |
 | Anson | Ebenezer Baptist Church soup kitchen | 612 Salisbury St., Wadesboro | 704-324-0031 | 1st-3rd Thu, noon to 1 p.m.|
@@ -21,7 +24,18 @@
 | Ashe | Warrensville Baptist Church | 130 Church St., Warrensville | 336-384-3044 | 2nd Sat monthly, 9:30 to 11:30 a.m. |
 | Avery | Feeding Avery Families Food Pantry | 189 Old Vale Road, Newland | 828-783-8506 | Fri, 9:30 to 11:30 a.m. & 12:30 to 2:30 p.m. |
 | Avery | Reaching Avery Ministry | 147 New Vale Road, Newland | 828-733-5127 | Mon-Fri, 10 a.m. to 4 p.m. |
-| Buncombe County | No listings available | | | |
+| Beaufort | Eagle's Wings | 932 W. 3rd Street Washington | 252-975-1138 | Tuesday: 9 a.m. to 11 a.m. & 2 p.m. to 4 p.m. |
+(Closed the 5th Tuesday of the Month) |
+| Beaufort | Primera Iglesia Alfa y Omega | 4770 HWY 17 N Washington | 252-975-1138 | La primera jueves de cada mes 10 a. m  to 11:30 p.m. |
+| Bertie | Good Shepherd Food Pantry | 819 Governors Road, Windsor | 252-794-1095 | Every 2nd and 3rd Saturday 10 a.m. to 1 p.m. and Wednesday, Thursday Saturdays 11 a.m. to 2 p.m. |
+| Bladen | First Baptist Church of Bladenboro | 500 S. Main Street, Bladenboro | 910-863-3618 | Second Saturdays 9 a.m. to 11 a.m. |
+| Bladen | Bladen Crisis Food Pantry | 208 South Morehead Street, Elizabethtown | 910-879-1032 | Residents age 62 and older can access the food pantry every first and third Thursday of the month from 9:30 a.m. to 12:30 p.m. All other residents are served on the second and fourth Thursdays |
+| Bladen | Windsor United Methodist Food Pantry | 12863 Highway 242, Elizabethtown | 910-588-4602 | 3rd Saturdays  10 a.m. to noon |
+
+
+
+| Buncombe | Calvary Episcopal Church | 2840 Hendersonville Rd., Asheville | 828-684-6266 | Saturdays 8 a.m. to 11 a.m. |
+| Buncombe | Trinity of Fairview | 646 Concord Rd., Fletcher | 828-628-1188 | Tuesdays, 9 a.m. to 1 p.m. |
 | Burke | Abernathy Memorial UMC/ Wright’s Food Pantry | 960 Malcolm Blvd., Rutherford College | 828-879-8894 | 4th Sat monthly, 8 to 11 a.m. |
 | Burke | Burke United Christian Ministry | 576 E. Fleming Dr., Morganton | 828-433-8075 | Mon, Wed- Fri, 9 a.m. to 2 p.m.; Tue, 9 a.m. to 4 p.m. |
 | Burke | Burke United Christian Ministry soup kitchen | 305 B West Union St., Morganton | 828-433-8075 | Mon-Fri, 9 to 10 a.m. & 11 a.m. to 12:30 p.m. |
@@ -101,6 +115,10 @@
 | Cleveland | Upper Cleveland Area Needs | 230 E. Main St., Lawndale | 704-538-8417 | Open Mondays through Thursdays, 9 a.m. to noon |
 | Cleveland | Walls Memorial Baptist Church (TEFAP & CSFP Provider) | 2223 Elizabeth Ave., Shelby | 704-484-3433 | Open first, third, and fifth Saturdays monthly, 8 to 10 a.m. |
 | Cleveland | Washington Outreach Ministry (TEFAP & CSFP Provider) | 2007 Caperium Road, Cherryville | 704-769-4128 | Open every other Friday, 9 to 11:30 a.m. Call for soup kitchen availability following pantry |
+| Columbus | Bogue Community Citizens Association | 1036 Jockey Road, Hallsboro | 910-317-6064 | 8 a.m. to 10 a.m. on the fourth Friday of each month and on the fourth Saturday by appointment |
+| Columbus | Harvest Table | 211 E. Columbus Street, Whiteville | 910-642-6654 | 11 a.m. to 1 p.m. every Monday, Tuesday, and Friday. |
+| Columbus | Facts of Life Church of the Living God Pillar, Ground and Truth | 24678 Peacock Road, Tabor City | 910-918-4531 | 1 p.m. Mondays, 4 p.m. Wednesdays by appointment |
+| Columbus | Lake Waccamaw Food Ministry | 300 Sam Potts Highway, Lake Waccamaw | 910-646-3727 | 4th Saturdays 9 a.m. to 10 a.m. |
 | Gaston | Belmont United Methodist Church | 2308 E. Catawba St., Belmont | 704-825-5545 | Open second and fourth Wednesdays monthly, 10 a.m. to noon |
 | Gaston | Cherryville Ministerial Association | 101 W. Main St., Cherryville | 704-435-4107 | Call for appointment; pantry only |
 | Gaston | Cramerton First United Methodist | 117 Main St., Cramerton | 704-827-2081 | Open first and third Thursdays monthly, 10 a.m. to noon |
@@ -270,6 +288,8 @@
 | Richmond | Sandhills Branch of Food Bank | 195 Sandy Ave., Southern Pines | 910-692-5959 | Open Mon–Fri, 8 a.m.–4:30 p.m. |
 | Richmond | St. Paul Lutheran | 311 Marlboro St., Hamlet | 910-582-0729 / 910-995-5004 | Open 3rd Sat monthly, 9–11:30 a.m. (emergency assistance) |
 | Richmond | Tabernacle Full Gospel | 328 Airport Rd., Rockingham | 910-419-4271 | Open Thurs biweekly at noon |
+| Robeson | Robeson County Church and Community Center | 600 W. 5th Street, Lumberton | 910-738-5204 | M, W, F 10 a.m. to noon |
+| Robeson | Antioch Baptist Church Food Pantry | 5089 Old Whiteville Road, Lumberton | 910-739-9425 | Thursdays 3 p.m. to 5 p.m. |
 | Rowan | Big Elm Retirement, Inc. | 905 McKnight St, Kannapolis | 704-933-5862 | Produce offered 2nd Wed monthly, 10 a.m.–1 p.m.; Food pantry available Mon & Fri mornings while supplies last. Call for info. |
 | Rowan | Freedom Christian Worship Center | 509 China Grove Hwy E., Rockwell | 704-267-5197 | Open Wed 8:30 a.m.–noon |
 | Rowan | Gethsemane Food Outreach | 1114 W. Horah St., Salisbury | 704-637-6036 | Open Wed 8:30 a.m.–noon |
@@ -279,6 +299,10 @@
 | Rowan | Salvation Army of Salisbury | 620 Bringle Ferry Rd., Salisbury | 704-636-6491 | Open Mon–Thu 9 a.m.–noon & 1–5 p.m.; Fri 9 a.m.–noon |
 | Rowan | Shadybrook Baptist Church-Kannapolis | 1009 Oakwood Ave., Kannapolis | 704-932-6169 | Open Thu 1–3 p.m. |
 | Rowan | South Side Community Outreach Pantry and Soup Kitchen | 157 Columbus Ave., China Grove | 704-792-5586 | Open Tue noon–3 p.m. |
+| Scotland | Partners in Ministry | 12 Third Street, East Laurinburg | 910-277-3355 | 1st, 3rd Friday 3 p.m. 2nd, 4th Saturday at 9 a.m. (except for holidays) |
+| Scotland | Saint Luke’s United Methodist Church | 1051 Turnpike Road, Laurinburg | 910-276-6821 | 3rd Saturday 8:30 a.m. |
+| Scotland | First United Methodist Church | 101 West Church Street, Laurinburg | 910-276-1592 | 2nd Saturday 7:30 a.m. |
+| Scotland | Restoring Hope Center | 1206 North Main Street, Laurinburg | 910-276-4460 | A drive-thru pantry is open from 9:30 a.m. to 11 a.m. Mondays, Tuesdays, and Fridays |
 | Stanly | Salvation Army Concord in Albemarle | 118 Heath St., Albemarle | 704-782-7822 | Open Wed 10:30–11:45 a.m. & 1–2 p.m. |
 | Stanly | Stanly Christian Ministry – Albemarle | 506 S. First St., Albemarle | 704-982-7915 | Pantry Mon–Thu 9 a.m.–4 p.m., Fri 9 a.m.–noon; Soup kitchen daily 11 a.m.–12:30 p.m. |
 | Stanly | Stanly Christian Ministry Norwood | 247 W. Turner St., Norwood | 704-982-7915 | Pantry Mon 2–6 p.m.; Soup kitchen daily 11 a.m.–12:30 p.m. |
