@@ -31,9 +31,6 @@
 | Bladen | First Baptist Church of Bladenboro | 500 S. Main Street, Bladenboro | 910-863-3618 | Second Saturdays 9 a.m. to 11 a.m. |
 | Bladen | Bladen Crisis Food Pantry | 208 South Morehead Street, Elizabethtown | 910-879-1032 | Residents age 62 and older can access the food pantry every first and third Thursday of the month from 9:30 a.m. to 12:30 p.m. All other residents are served on the second and fourth Thursdays |
 | Bladen | Windsor United Methodist Food Pantry | 12863 Highway 242, Elizabethtown | 910-588-4602 | 3rd Saturdays  10 a.m. to noon |
-
-
-
 | Buncombe | Calvary Episcopal Church | 2840 Hendersonville Rd., Asheville | 828-684-6266 | Saturdays 8 a.m. to 11 a.m. |
 | Buncombe | Trinity of Fairview | 646 Concord Rd., Fletcher | 828-628-1188 | Tuesdays, 9 a.m. to 1 p.m. |
 | Burke | Abernathy Memorial UMC/ Wright’s Food Pantry | 960 Malcolm Blvd., Rutherford College | 828-879-8894 | 4th Sat monthly, 8 to 11 a.m. |
