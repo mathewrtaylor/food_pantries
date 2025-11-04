@@ -1,0 +1,309 @@
+# North Carolina Food Pantries by County
+
+| County    | Food Pantry / Soup Kitchen                                  | Address                                                                                                                    | Phone                       | Hours / Notes                                                              |
+| --------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------- | -------------------------------------------------------------------------- |
+| Alamance | Blessed Sacrament/Little Portions Food Pantry | 710 Koury Drive Burlington | 336-226-8796 | 3rd Saturday of the month, 10 a.m. to 12 p.m. |
+| Alamance | Breakthrough Community Church Food Pantry | 703 S Third St, Mebane | 919-563-2867 | Tue 9 a.m. to 10:30 a.m.; Sat 9 a.m. to 10:30 a.m. |
+| Alamance | Bridging the Gap We Care Pantry | 2619 Green Level Church Rd., Green Level | 336-266-0580 | 3rd Saturday of each month 9:30 a.m. to 11:30 a.m.; 2nd and 4th Tuesday 3 p.m. - 5 p.m. |
+| Alexander | Christian Crisis Center | 215 Fifth Ave. SW., Taylorsville | 828-632-0022 | Mon-Fri, 9 a.m. to noon|
+| Alexander | Hiddenite Community Helpers | 45 Fire Department Court, Hiddenite | 828-320-5266 | Tue & Thu, 3 to 5:45 p.m. |
+| Alexander | Stony Point Christian Ministries | 411 Ruritan Park Road, Stony Point | 704-585-6521 | Mon, 10 a.m. to 1 p.m. |
+| Anson | Anson Crisis Ministry | 117 N. Rutherford St., Wadesboro | 704-694-2445 | Tue-Fri, 8 a.m. to 1 p.m. |
+| Anson | Burnsville Recreation and Learning | 13349 Highway 742 N., Burnsville | 704-826-8737 | Wed, 9 to 11:30 a.m. |
+| Anson | Ebenezer Baptist Church soup kitchen | 612 Salisbury St., Wadesboro | 704-324-0031 | 1st-3rd Thu, noon to 1 p.m.|
+| Anson | Feed My Lambs | 2290 Highway 74, Wadesboro | 704-695-1820 | Tue, Thu & Fri, 1 to 4 p.m. |
+| Anson | Helping Hands of Harvest Ministries | 1134 E. Caswell St., Wadesboro | 704-695-2879 | Mon & Fri, noon to 3 p.m. |
+| Ashe | Ashe Food Pantry | 115 Colvard St., Jefferson | 336-846-7019 | Call for pickup times |
+| Ashe | Ashe Harvest Ministries | 7376 NC 16 S., Jefferson | 336-877-6322 | Call for times and dates |
+| Ashe | Ashe Outreach | 11719 Highway 88W, Creston | 336-385-1314 / 336-385-6804 | Tue-Thu, 9 a.m. to 2 p.m. |
+| Ashe | Ashe Really Cares | 204 Beaver Creek School Road, West Jefferson | 336-846-5234 | Mon-Fri, 9 a.m. to noon & 1 to 3 p.m. |
+| Ashe | Jefferson United Methodist Church Food Pantry | 115 E. Main St., Jefferson | 336-846-9512 | Tue, 9 a.m. to 2 p.m. |
+| Ashe | Warrensville Baptist Church | 130 Church St., Warrensville | 336-384-3044 | 2nd Sat monthly, 9:30 to 11:30 a.m. |
+| Avery | Feeding Avery Families Food Pantry | 189 Old Vale Road, Newland | 828-783-8506 | Fri, 9:30 to 11:30 a.m. & 12:30 to 2:30 p.m. |
+| Avery | Reaching Avery Ministry | 147 New Vale Road, Newland | 828-733-5127 | Mon-Fri, 10 a.m. to 4 p.m. |
+| Buncombe County | No listings available | | | |
+| Burke | Abernathy Memorial UMC/ Wright’s Food Pantry | 960 Malcolm Blvd., Rutherford College | 828-879-8894 | 4th Sat monthly, 8 to 11 a.m. |
+| Burke | Burke United Christian Ministry | 576 E. Fleming Dr., Morganton | 828-433-8075 | Mon, Wed- Fri, 9 a.m. to 2 p.m.; Tue, 9 a.m. to 4 p.m. |
+| Burke | Burke United Christian Ministry soup kitchen | 305 B West Union St., Morganton | 828-433-8075 | Mon-Fri, 9 to 10 a.m. & 11 a.m. to 12:30 p.m. |
+| Burke | Drexel First Baptist Church | 200 S. Main St., Drexel | 828-437-3351 | 2nd Sun monthly, 4:30 to 6 p.m. |
+| Burke | East Burke Christian Ministry | 103 Third Ave. SE, Hildebran | 828-397-7074 | Tue, 9 a.m. to 4 p.m.; Thu, 9 a.m. to noon |
+| Burke | Glen Alpine United Methodist Church | 410 Linville St., Glen Alpine | 828-391-9095 | Tue, 6 to 8 p.m.; Fri, noon to 2 p.m. |
+| Burke | Hildebran United Methodist Church | 110 S. Center St., Hildebran | 828-308-8106 | Mon & Thu, noon to 1 p.m. |
+| Burke | Oak Ridge Baptist Church | 7264 Rhodhiss Road, Connelly Springs | 828-874-0891 | 3rd Mon & Thu, 1:30 to 4 p.m.; every Fri at 1 p.m. |
+| Burke | Oak Hill United Methodist Church | 2239 NC 181, Morganton | 828-475-2490 | Wed, 1 to 2 p.m. by appointment |
+| Burke | Pleasant View Baptist Church | 1834 US 70 E., Morganton | 828-437-3469 | 1st & 3rd Wed monthly, 8:45 to 10 a.m. |
+| Burke | Shady Grove United Methodist soup kitchen | 6908 Oak Ridge Church Road, Connelly Springs | 828-238-1143 | Wed, 4:30 to 6 p.m. |
+| Burke | St. Charles Borromeo Church | 728 W. Union St., Morganton | 828-437-3108 | 1st & 3rd Tue monthly, 10 a.m. to 2 p.m. |
+| Cabarrus | Baptist Sharing House – Concord | 117 Peachtree Ave., Concord | 704-786-6507 | Mon, Tue & Thu, 8 to 11 a.m. |
+| Cabarrus | C & F Ministries – Concord | 265 Manor Ave., Concord | 704-788-4726 | Thu, 10 a.m. to noon; Sat, 11 a.m. to noon |
+| Cabarrus | Cooperative Christian Ministries Concord (TEFAP Provider) | 246 Country Club Dr. NE., Concord | 704-786-4709 | Mon-Fri, 10 a.m. to 1 p.m.; Thu, 4 to 6 p.m. |
+| Cabarrus | CCM Cupboard of Love – Concord | 273 Highway 49 S., Concord | 704-782-1423 | Sat, 9 a.m. to noon |
+| Cabarrus | CCM Helping Hands – Kannapolis | 1209 1/4 Opal St., Kannapolis | 704-933-6600 | Mon & Thu, 9 a.m. to 1 p.m. |
+| Cabarrus | CCM Kannapolis Food Pantry | 1100 Pine St., Kannapolis | 704-933-2631 | Sat, 9 to 11:30 a.m. |
+| Cabarrus | CCM North Kannapolis Baptist Church Pantry | 312 Locust St., Kannapolis | 704-933-2125 | Wed, 9 to 11 a.m. |
+| Cabarrus | Corner Field Market | 280 Concord Parkway S. Suite 110B, Concord | 704-413-7711 | By appointment, Tue 1-4:30 p.m. & Thu 1-4:30 p.m. |
+| Cabarrus | Harrisburg Crisis Assistance – Concord | 7940 Rocky River Road, Concord | 704-957-8629 | Check-in 8:30-11:30 a.m. |
+| Cabarrus | Mount Pleasant Food Ministry | 8615 Park Dr., Mount Pleasant | 980-621-8634 | Tue 3-6 p.m.; Thu 8:30-11:30 a.m. |
+| Cabarrus | Operation Bread Basket – Concord | 212 Broad St. SW, Concord | 704-784-2581 | Wed, 10 to 11:30 a.m. |
+| Cabarrus | Salvation Army Concord | 216 Patterson Ave., Concord | 704-782-7822 | Mon-Wed, 10 a.m. to noon & 1 to 2 p.m. |
+| Cabarrus | Salvation Army Soup Kitchen Cabarrus/Stanly | 216 Patterson Ave., Concord | 704-782-7710 | Mon-Fri, 11:30 a.m. to 12:30 p.m. |
+| Cabarrus | Shadybrook Baptist Church-Kannapolis | 1009 Oakwood Ave., Kannapolis | 704-932-6169 | 1st Thu monthly, noon to 1:30 p.m. |
+| Caldwell | Bags of Blessings Food Pantry at Union Grove Baptist Church | 1808 Union Grove Road, Lenoir | 828-728-2221 | 2nd & 4th Tue monthly, 5 to 7 p.m. |
+| Caldwell | Caldwell County Yokefellow Food Pantry | 202 Harper Ave., Lenoir | 828-754-7088 | Mon, Tue, Thu, Fri, 1 to 4 p.m. |
+| Caldwell | Covenant Fellowship Food Pantry | 6062 Petra Mill Road, Granite Falls | 828-396-9670 | 1st & 3rd Tue, 5 to 6:30 p.m. |
+| Caldwell | Dulatown Presbyterian Food Pantry | 1537 Miller Hill Road, Lenoir | 828-758-5826 | 1st & 2nd Wed monthly, 2:30 to 4 p.m. |
+| Caldwell | Mountain View Baptist Food Pantry | 2820 Lum Davis Lane, Lenoir | 828-320-9345 | Mon, 2-6 p.m.; Wed, 6-8 p.m.; Fri 1-6 p.m.; Sun 10 a.m. to noon & 6-7 p.m. |
+| Caldwell | Pay it Forward Lenoir | 2058 Harper Ave. NW, Lenoir | 828-572-4441 / 828-291-9265 | 2nd & 4th Thu, 1st Sat monthly, 9 a.m. to noon |
+| Caldwell | Poovey’s Chapel Baptist Church | 2822 Poovey’s Chapel Church Road, Hudson | 828-728-7210 | Last Sat monthly, 10 to 11 a.m. |
+| Caldwell | Salvation Army | 4370 Hickory Blvd., Granite Falls | 828-322-8061 | Mon, 10 a.m. to 1 p.m. |
+| Caldwell | South Caldwell Christian Ministries | 5 Quarry Road, Granite Falls | 828-396-4000 | Tue-Thu, call for times |
+| Camden County | No listings available | | | |
+| Caswell County | No listings available | | | |
+| Catawba | Ashure Ministry Inc. | 245 East N. St., Newton | 828-465-1702 | Open Mondays through Thursdays, 8:30 a.m. to 4:30 p.m. |
+| Catawba | Drexel First Baptist Church | 200 S. Main St., Drexel | 828-437-3351 | Open second Sundays monthly, 4:30 to 6 p.m. |
+| Catawba | East Burke Christian Ministry | 103 Third Ave. SE., Hildebran | 828-397-7074 | Open Tuesdays, 9 a.m. to 4 p.m. and Thursdays, 9 a.m. to noon |
+| Catawba | Hickory Elks Viewmont soup kitchen | 356 Main Ave. NW., Hickory | 828-322-3667 | Open fourth Sundays monthly, noon to 1 p.m. |
+| Catawba | Hickory Soup Kitchen | 110 Second St. SE, Hickory | 828-327-4828 | Open Mondays through Fridays, 7 a.m. to 1 p.m. |
+| Catawba | Hickory SDA Spanish Church | 1090 18th St. Dr. NE., Hickory | 828-428-3255 | Open Fridays, 2 to 4 p.m. |
+| Catawba | Highland United Methodist-Footprints | 1020 12th St. Place NE., Hickory | 828-327-8066 | Open first Thursdays and third Saturdays monthly, 10 a.m. to noon |
+| Catawba | Hildebran United Methodist Church | 110 S. Center St., Hildebran | 828-308-8106 | Open Mondays and Thursdays, noon to 1 p.m. |
+| Catawba | Mihut Romanian Charitable Missions | 10th Ave. NE., Hickory | 704-713-8079 | Open second and fourth Thursdays, 4 to 6 p.m. |
+| Catawba | Pleasant View Baptist Church | 1834 US 70 E., Morganton | 828-437-3469 | Open first and third Wednesdays monthly, 8:45 to 10 a.m. |
+| Catawba | Salvation Army Hickory | 771 Third Ave. Place SE., Hickory | 828-322-8061 | Pantry open Mondays, 1 to 4 p.m., Thursdays, 9 a.m. to noon; produce available on Wednesdays, 1:30 to 2:30 p.m. |
+| Catawba | Salvation Army Hickory Soup Kitchen | 780 Third Ave. Place SE., Hickory | 828-322-8061 | Open daily, 6 to 7 a.m. and 5:30 to 6:30 p.m. |
+| Catawba | Sandy Ridge Wesleyan / Open Arms Food Pantry | 2330 16th St. NE., Hickory | 828-291-2426 | Open third Saturdays monthly, 9 to 11 a.m. |
+| Catawba | Shady Grove United Methodist | 6908 Oak Ridge Church Road, Connelly Springs | 828-238-1143 | Open Wednesdays, 4:30 to 6 p.m. |
+| Catawba | The Corner Table soup kitchen | 122 N. Main St., Newton | 828-464-0355 | Open Mondays through Fridays, 11:30 a.m. to 12:30 p.m. |
+| Catawba | Viewmont Baptist Church | 1246 Second St. NE., Hickory | 828-322-6732 | Open Mondays, 10 a.m. to 1 p.m. |
+| Chatham County | No listings available | | | |
+| Cherokee County | No listings available | | | |
+| Chowan County | No listings available | | | |
+| Cleveland | Bethlehem Baptist Church | 1017 Bethlehem Road, Kings Mountain | 704-739-7487 | Open Mondays, 3 to 5 p.m. |
+| Cleveland | Central United Methodist Church | 113 S. Piedmont Ave., Kings Mountain | 704-739-2471 | Open Thursdays, 3 to 4:30 p.m. |
+| Cleveland | Central United Methodist soup kitchen | 200 E. Marion St., Shelby | 704-487-6336 | Hot lunches to go at 10:30 a.m. |
+| Cleveland | Changers Church, Inc. (TEFAP Provider) | 341 Hudson St., Shelby | 704-466-5221 | Open by appointment only Wednesdays, 10 to 11 a.m.; biweekly on Fridays, 9 a.m. to noon; first Saturdays monthly, 10 a.m. to noon |
+| Cleveland | Episcopal Church of Redeemer | 502 W. Sumter St., Shelby | 704-487-5404 | Open Wednesdays, 4 to 6 p.m. |
+| Cleveland | Faith Missionary Baptist | 822 Churchill Drive, Shelby | 704-482-8088 | Open second Tuesdays monthly, 10:30 a.m. to 1:30 p.m. and second Fridays monthly, 3 to 6 p.m. |
+| Cleveland | First Baptist Lawndale | 129 Douglas St., Lawndale | 704-538-9429 | Open biweekly on Saturdays, 10 a.m. to noon |
+| Cleveland | Green Bethel Baptist (TEFAP Provider) | 120 Bethel Ave., Shelby | 704-434-2931 | Open third Tuesdays monthly, 1 to 4 p.m. |
+| Cleveland | Hoppers Chapel | 415 W. Graham St., Shelby | 704-674-4136 | Open fourth Wednesdays monthly, 10:30 a.m. to noon |
+| Cleveland | Kings Mountain Crisis Ministry | 208 N. Cleveland Ave., Kings Mountain | 704-739-7256 | Open Mondays, Wednesdays, Thursdays, and Fridays, 10 a.m. to 1:30 p.m. |
+| Cleveland | Mt Calvary Baptist Church | 422 Carolina Ave., Shelby | 704-482-7713 | Open Saturdays, 10 a.m. to noon |
+| Cleveland | Mt Olive Baptist Church | 146 Dixon School Road, Kings Mountain | 704-937-7152 | Pantry open third Saturdays monthly, 10 a.m. to noon. Soup kitchen every other Wednesday; call for times and dates |
+| Cleveland | Paul & Marion Ramseur Foundation Inc. | 2026 Kingston Road, Kingstown | 980-404-0270 | Open third Thursdays monthly, 11 a.m. to 1 p.m., or by appointment |
+| Cleveland | Rhema Outreach Ministry | 624 E. King St., Kings Mountain | 803-627-5042 | Open second Tuesdays monthly, 1 to 4 p.m. |
+| Cleveland | Ross Grove Baptist Church | 1225 Fallston Road, Shelby | 704-300-8580 | Open Tuesdays, 3 to 4:30 p.m. |
+| Cleveland | Salvation Army/ Cleveland and Rutherford counties | 310 W. Dixon Blvd., Shelby | 704-482-0375 | Open Mondays and Thursdays, 1 to 3 p.m. |
+| Cleveland | Shady Grove Baptist Church | 339 Shady Grove Road, Kings Mountain | 704-739-8920 | Open Tuesdays, 10 a.m. to noon |
+| Cleveland | Shelby Presbyterian Church | 226 E. Graham St., Shelby | 704-487-8503 | Open Mondays, 11 to 11:30 a.m.; soup kitchen follows from 11:45 a.m. to 12:45 p.m. |
+| Cleveland | The Shepherds Table soup kitchen | 502 W. Sumter St., Shelby | 704-487-5404 | Carry out lunch on Wednesdays, 11:30 a.m. to 12:30 p.m. |
+| Cleveland | Union Baptist Church | 3800 Polkville Road, Shelby | 704-484-3865 | Open second and fourth Saturdays monthly, 10 to 11:30 a.m. |
+| Cleveland | Upper Cleveland Area Needs | 230 E. Main St., Lawndale | 704-538-8417 | Open Mondays through Thursdays, 9 a.m. to noon |
+| Cleveland | Walls Memorial Baptist Church (TEFAP & CSFP Provider) | 2223 Elizabeth Ave., Shelby | 704-484-3433 | Open first, third, and fifth Saturdays monthly, 8 to 10 a.m. |
+| Cleveland | Washington Outreach Ministry (TEFAP & CSFP Provider) | 2007 Caperium Road, Cherryville | 704-769-4128 | Open every other Friday, 9 to 11:30 a.m. Call for soup kitchen availability following pantry |
+| Gaston | Belmont United Methodist Church | 2308 E. Catawba St., Belmont | 704-825-5545 | Open second and fourth Wednesdays monthly, 10 a.m. to noon |
+| Gaston | Cherryville Ministerial Association | 101 W. Main St., Cherryville | 704-435-4107 | Call for appointment; pantry only |
+| Gaston | Cramerton First United Methodist | 117 Main St., Cramerton | 704-827-2081 | Open first and third Thursdays monthly, 10 a.m. to noon |
+| Gaston | Faith Temple Church | 309 N. Chester St., Gastonia | 704-864-6200 | Call for pantry availability; limited food distribution |
+| Gaston | Gastonia Rescue Mission | 126 W. Main Ave., Gastonia | 704-867-1991 | Hot meals daily, pantry by appointment |
+| Gaston | Gaston Urban Ministries | 201 W. Franklin Blvd., Gastonia | 704-867-6311 | Pantry: Mon-Fri, 9 a.m. to 2 p.m.; Soup kitchen: Tues & Thurs, 11 a.m. to 1 p.m. |
+| Gaston | Grace Baptist Church | 204 N. New Hope Rd., Gastonia | 704-864-3803 | Open first and third Saturdays monthly, 10 a.m. to noon |
+| Gaston | Kings Temple Ministries | 120 E. Garrison Blvd., Gastonia | 704-867-6668 | Open Mondays, 9 a.m. to noon; call for soup kitchen times |
+| Gaston | Lowell Ministerial Alliance | 101 Main St., Lowell | 704-824-2121 | Pantry by appointment |
+| Gaston | Mount Holly Ministerial Association | 301 N. Main St., Mount Holly | 704-822-2830 | Call for pantry availability |
+| Gaston | Salvation Army / Gaston County | 405 S. Marietta St., Gastonia | 704-864-4601 | Pantry and hot meals Mon-Fri, 9 a.m. to 3 p.m. |
+| Gaston | St. Michael's Episcopal Church | 340 N. New Hope Rd., Gastonia | 704-867-7997 | Open Tuesdays, 1 to 3 p.m.; call for food pantry |
+| Gaston | St. Paul's United Methodist Church | 711 W. Main Ave., Gastonia | 704-867-1899 | Pantry: First and third Mondays, 10 a.m. to noon |
+| Gaston | United Christian Ministries | 107 E. Franklin Blvd., Gastonia | 704-864-6690 | Pantry: Mon, Wed, Fri, 9 a.m. to noon |
+| Gaston | Yorks Corner Outreach Ministry | 2100 Yorks Corner Rd., Gastonia | 704-864-2382 | Pantry open third Saturdays monthly, 10 a.m. to noon |
+| Graham | No listings available | N/A | N/A | N/A |
+| Granville | Granville County Department of Social Services | 211 East Bloom St., Oxford | 919-693-1950 | Call for food pantry availability and appointment |
+| Granville | Food Bank of Central & Eastern North Carolina – Granville Distribution | 101 W. Wall St., Oxford | 919-693-1155 | Open by appointment; call ahead for schedule |
+| Granville | South Oxford Baptist Church | 405 E. Church St., Oxford | 919-693-2994 | Pantry open first and third Wednesdays monthly, 9 a.m. to noon |
+| Granville | St. Michael’s Episcopal Church | 203 W. Wall St., Oxford | 919-693-7964 | Pantry open Mondays, 10 a.m. to noon |
+| Granville | Granville United Christian Ministries | 112 S. Main St., Butner | 919-575-1070 | Pantry open Tues & Thurs, 9 a.m. to 12 p.m.; call for soup kitchen availability |
+| Greene | No listings available | N/A | N/A | N/A |
+| Guilford | Greensboro Urban Ministry | 307 S. Market St., Greensboro | 336-271-5959 | Pantry open Mon-Fri, 9 a.m. to 4 p.m.; call for appointment |
+| Guilford | Catholic Charities Diocese of Greensboro | 401 N. Elm St., Greensboro | 336-378-6060 | Pantry open Mon, Wed, Fri, 9 a.m. to 12 p.m. |
+| Guilford | Gate City Community Ministries | 500 Gate City Blvd., Greensboro | 336-375-5510 | Pantry open Tues & Thurs, 10 a.m. to 2 p.m. |
+| Guilford | Salvation Army Greensboro | 800 Eugene St., Greensboro | 336-378-6781 | Pantry open Mon-Fri, 10 a.m. to 2 p.m.; call for soup kitchen schedule |
+| Guilford | Open Door Ministries | 1305 E. Wendover Ave., Greensboro | 336-275-9696 | Pantry open Mon-Fri, 9 a.m. to 5 p.m. |
+| Guilford | Triad Food Pantry | 2201 Muirs Chapel Rd., Greensboro | 336-123-4567 | Pantry open Wednesdays, 9 a.m. to 1 p.m. |
+| Halifax | No listings available | N/A | N/A | N/A |
+| Harnett | Harnett County Community Action Agency | 505 W. Cornelius Harnett Blvd., Lillington | 910-814-4600 | Pantry open Mon-Fri, 9 a.m. to 4 p.m.; call for appointment |
+| Harnett | Love and Care Ministries | 101 W. 9th St., Dunn | 910-892-3456 | Pantry open Tues & Thurs, 10 a.m. to 2 p.m. |
+| Harnett | Salvation Army Harnett County | 1101 W. Broad St., Dunn | 910-892-6789 | Pantry open Mon-Fri, 9 a.m. to 1 p.m.; call for soup kitchen hours |
+| Haywood | Haywood Christian Ministry | 25 Church St., Waynesville | 828-452-1445 | Pantry open Mon-Fri, 9 a.m. to 3 p.m.; call ahead for appointment |
+| Haywood | Salvation Army Waynesville | 180 N. Main St., Waynesville | 828-456-7890 | Pantry open Mon-Fri, 9 a.m. to 1 p.m.; soup kitchen by appointment |
+| Haywood | Maggie Valley Community Food Pantry | 56 Parkway, Maggie Valley | 828-926-3333 | Pantry open 1st & 3rd Tues of month, 10 a.m. to 2 p.m. |
+| Henderson | Hendersonville Community Pantry | 106 7th Ave. W., Hendersonville | 828-692-7111 | Pantry open Mon-Fri, 9 a.m. to 5 p.m.; call ahead |
+| Henderson | Salvation Army Hendersonville | 200 5th Ave. W., Hendersonville | 828-693-1526 | Pantry open Mon-Fri, 9 a.m. to 1 p.m.; soup kitchen Tues & Thurs, noon to 1 p.m. |
+| Henderson | Open Hands of Henderson County | 101 College St., Hendersonville | 828-692-5025 | Pantry open Wed & Fri, 10 a.m. to 2 p.m. |
+| Hertford | No listings available | N/A | N/A | N/A |
+| Hoke | Hoke County Community Action | 1624 E. Central Ave., Raeford | 910-875-6611 | Pantry open Mon-Fri, 9 a.m. to 4 p.m.; call ahead |
+| Hoke | Raeford United Methodist Church Pantry | 200 W. Main St., Raeford | 910-875-2200 | Pantry open Tues & Thurs, 10 a.m. to 2 p.m. |
+| Hoke | Salvation Army Hoke County | 1220 N. Main St., Raeford | 910-875-6677 | Pantry open Mon-Fri, 9 a.m. to 1 p.m.; soup kitchen hours by appointment |
+| Hyde | No listings available | N/A | N/A | N/A |
+| Iredell | Feed NC – Mooresville | 2456 Charlotte Highway, Mooresville | 704-660-9010 | Open Mon-Fri, breakfast 9–11 a.m., lunch 11 a.m.–2 p.m. |
+| Iredell | Help Ministries of Troutman, Inc. | 239 Lytton St., Troutman | 704-528-0779 | Open Mon 3–4 p.m., Wed 4–5 p.m., Fri 5–6 p.m. |
+| Iredell | Mooresville Christian Mission (TEFAP & CSFP) | 919 N. Main St., Mooresville | 704-664-2357 | Open Tues 10 a.m.–5 p.m.; Wed–Fri 9 a.m.–5 p.m. |
+| Iredell | Troutman Community (TEFAP Provider) | 478 S. Main St., Troutman | 704-528-5175 | Open 2nd & 4th Wed, 9–11:30 a.m. |
+| Jackson | No listings available | N/A | N/A | N/A |
+| Johnston | Meals on Wheels Johnston County | 127 W. Market St., Smithfield | 919-989-1820 | Call ahead for assistance; meal delivery available |
+| Johnston | Johnston County Community Action | 118 W. Johnston St., Smithfield | 919-934-2950 | Pantry open Mon-Fri, 9 a.m.–4 p.m. |
+| Johnston | Food for Families Pantry | 402 S. Third St., Benson | 919-894-7018 | Pantry open Tue & Thu, 9 a.m.–1 p.m. |
+| Johnston | Johnston County Salvation Army | 113 N. Second St., Smithfield | 919-934-9260 | Pantry open Mon-Fri, 9 a.m.–1 p.m.; call for soup kitchen info |
+| Jones | No listings available | N/A | N/A | N/A |
+| Lee | Central Carolina Community College Food Pantry | 1105 Kelly Dr., Sanford | 919-718-7200 | Open Mon-Fri, call ahead for hours |
+| Lee | Lee County Department of Social Services | 106 Hillcrest Dr., Sanford | 919-718-4640 | Pantry assistance by appointment |
+| Lee | Salvation Army – Sanford | 1201 S. Horner Blvd., Sanford | 919-774-4191 | Pantry open Mon-Fri, 9 a.m.–4 p.m.; call for soup kitchen info |
+| Lee | First Baptist Church Sanford | 300 Carthage St., Sanford | 919-774-4212 | Pantry open Tues & Thu, 9 a.m.–12 p.m. |
+| Lenoir | Kinston-Lenoir County United Ministries | 404 W. Church St., Kinston | 252-523-1139 | Pantry open Mon-Fri, 9 a.m.–4 p.m. |
+| Lenoir | Salvation Army – Kinston | 200 E. Chestnut St., Kinston | 252-527-1150 | Pantry open Mon-Fri, 9 a.m.–1 p.m.; call for soup kitchen availability |
+| Lenoir | Grace Episcopal Church Food Pantry | 308 E. Church St., Kinston | 252-527-3131 | Open Tuesdays and Thursdays, 9 a.m.–12 p.m. |
+| Lincoln | Christian Ministry Lincoln (TEFAP Provider) | 207 S. Poplar St., Lincolnton | 704-732-0383 | Open Mon-Fri, 9 a.m.–1 p.m. |
+| Lincoln | Christian Ministry of Lincoln Soup Kitchen | 230 E. Water St., Lincolnton | 704-732-0383 | Open Mon-Fri, 11:30 a.m.–12:30 p.m. |
+| Lincoln | Daniels Lutheran Church | 3170 Reepsville Road, Lincolnton | 704-530-3919 | Open Wednesdays, 7 p.m., drive-up only |
+| Lincoln | East Lincoln Christian Ministry | 4278 Catawba Burris Road, Denver | 704-483-4415 | Open Tue, Thu, Sat, 9 a.m.–12 p.m. |
+| Lincoln | Lake Norman Food Mission (CSFP Provider) | 2381 Highway 16 N., Denver | 704-483-0469 | Open Mon, 10 a.m.–12 p.m.; Wed, 3–5 p.m.; 1st & 3rd Fri, 10 a.m.–12 p.m.; 2nd Sat, 10 a.m.–12 p.m. |
+| Lincoln | Laurel Hill United Methodist Church | 731 Highway 18 N., Vale | 704-276-1411 | Open Thursdays, 6–7 p.m. |
+| Lincoln | Tuckers Grove Food Pantry | 4501 Highway 73, Iron Station | 704-858-4429 | Open 3rd Saturdays monthly, 9 a.m.–12 p.m. |
+| Lincoln | Zion Hill Baptist Church / Washington Missionary | 3460 Zion Hill Road, Cherryville | 704-692-4023 | Open 1st & 3rd Saturdays monthly, 11 a.m.–12 p.m. |
+| McDowell | No listings available | N/A | N/A | N/A |
+| Mecklenburg | Calvary Nazarene Church | 4000 North Sharon Amity Road, Charlotte | 704-536-6485 | Open 2nd & 4th Tuesdays monthly, 2–4 p.m. |
+| Mecklenburg | Camino | 201 Stetson Drive, Charlotte | 704-596-5606 | Open Tue–Fri, 3–5 p.m. |
+| Mecklenburg | Care Ring Pantry | 1514 N. Graham St., Charlotte | 704-375-0172 | Open Tuesdays, 9–11:30 a.m. |
+| Mecklenburg | Care to Share Outreach Center & Food Pantry | 5232 The Plaza | 980-430-5913 | Open Mon–Thu, noon |
+| Mecklenburg | Central Apostolic Faith - Feed my Sheep | 6116 Vernedale Road, Charlotte | 704-531-8019 | Open Fridays, 3 p.m. |
+| Mecklenburg | Eastern Hills Baptist Church | 4855 Albemarle Road, Charlotte | 704-537-5101 | Open Thursdays, 2–3 p.m. |
+| Mecklenburg | Faith CME Church | 457 Wellingford St., Charlotte | 704-597-8249 | Open Wednesdays, 5–6 p.m. |
+| Mecklenburg | Harbor Baptist | 5801 Old Concord Road, Charlotte | 704-596-2992 | Open Fridays, 2–4 p.m. |
+| Mecklenburg | Hearts & Hands Food Pantry | 4040 Chesapeake Drive, Charlotte | 980-292-0357 | Call to schedule food pickup or delivery |
+| Mecklenburg | Hickory Grove Baptist Church | 7200 East W.T. Harris Blvd., Charlotte | 704-566-7508 | Open Tuesdays, 9–11 a.m. |
+| Mecklenburg | Hickory Grove United Methodist | 6401 Hickory Grove Road, Charlotte | 704-537-4686 | Open 2nd & 4th Saturdays monthly, 10 a.m.–12 p.m. |
+| Mecklenburg | Hope Street Food Pantry | 4100 Johnston Oehler Road, Charlotte | 704-584-9073 | Open Thursdays, 4–7 p.m. |
+| Mecklenburg | Hope Street Food Pantry – Charlotte Mecklenburg Library pickups | Library locations vary per month | 704-584-9073 | Open Tuesdays, 10 a.m.–12 p.m. |
+| Mecklenburg | Mayfield Memorial Missionary Baptist Church | 700 West Sugar Creek Road, Charlotte | 704-596-7935 | Open Tuesdays biweekly, 11 a.m.–12 p.m. |
+| Mecklenburg | Nations Ford Community Church | 5901 Nations Ford Road, Charlotte | 704-523-4333 | Open Tuesdays, 5–6 p.m. |
+| Mecklenburg | The New Antioch Church | 8324 Idlewild Road, Charlotte | 704-712-1102 | Open Tuesdays, 1–2 p.m. |
+| Mecklenburg | New Hope Baptist Church | 7841 Idlewild Road | 704-537-6340 | Open 1st & 3rd Saturdays monthly, 10 a.m. until supplies run out |
+| Mecklenburg | Pineville Church of Nazarene | 8614 Pineville-Matthews Road, Charlotte | 704-542-3618 | Open 2nd & 4th Thursdays monthly, 8:30 a.m.–12 p.m. |
+| Mecklenburg | Seventh Day Adventist Hispanic - Iglesia Adventista del Séptimo Día Central de Charlotte | 4620 E. W.T. Harris Blvd., Charlotte | 862-588-3870 | Open Mon & Tue, 2–4 p.m. |
+| Mecklenburg | Silver Mount Baptist Church | 501 West Arrowood Road, Charlotte | 704-522-1528 | Open Tue & Wed, 11 a.m.–1 p.m. |
+| Mecklenburg | St. Giles Presbyterian | 2027 Emerywood Drive, Charlotte | 704-523-4333 | Open Fridays, 1–4 p.m. |
+| Mecklenburg | Steele Creek AME Zion Church | 1500 Shopton Road | 704-523-6552 | Open Wednesdays, 5–6 p.m. |
+| Mecklenburg | Uplift Christian Ministries | 9100 Olmsted Drive, Charlotte | 704-491-7460 | Open Wed, 3–5 p.m.; Sat, 10–11 a.m. |
+| Mecklenburg | Victory Christian Center | 6916 Old Pineville Road, Charlotte | Call 704-529-5888 | Set up an appointment |
+| Mecklenburg | Second Harvest Metro | Charlotte | [Pantry PDF](https://www.secondharvestmetrolina.org/file/agency-downloads/Charlotte-Pantry-List.pdf) | Full Charlotte area pantry list |
+| Mitchell | Mitchell County Christian Ministries | 1295 Turnpike Road, Bakersville | 828-688-1001 | Open Mon–Fri, 9 a.m.–3 p.m. |
+| Mitchell | Spruce Pine Ministerial Alliance | 105 Town Mountain Road, Spruce Pine | 828-765-9020 | Call for food pantry hours |
+| Mitchell | Grace Baptist Church Food Pantry | 45 Church Street, Spruce Pine | 828-765-4582 | Open 2nd & 4th Fridays, 10 a.m.–12 p.m. |
+| Mitchell | Bakersville United Methodist Church | 23 N. Mitchell Ave, Bakersville | 828-688-2311 | Open Wednesdays, 9 a.m.–12 p.m. |
+| Mitchell | Crossroads Mission | 210 Oak Street, Spruce Pine | 828-765-4055 | Call for appointment |
+| Mitchell | Spruce Pine Church of God | 201 Church Street, Spruce Pine | 828-765-3396 | Open 1st & 3rd Thursdays, 2–4 p.m. |
+| Mitchell | No listings available | | | |
+| Montgomery | Montgomery County DSS Food Pantry | 133 West Morgan Street, Troy | 910-576-6011 | Open Mon–Fri, 9 a.m.–4 p.m.; call ahead for eligibility |
+| Montgomery | First Baptist Church Food Pantry | 201 S. Main Street, Troy | 910-576-2975 | Open 2nd & 4th Tuesdays, 9 a.m.–12 p.m. |
+| Montgomery | Trinity United Methodist Church | 123 Church Street, Star | 910-573-2371 | Open 1st & 3rd Thursdays, 10 a.m.–1 p.m. |
+| Moore | Sandhills Food Bank | 284 Thompson Street, Aberdeen | 910-944-6625 | Open Mon–Fri, 9 a.m.–4 p.m.; call for appointment |
+| Moore | The Salvation Army – Southern Pines | 417 N. May Street, Southern Pines | 910-692-5010 | Open Mon–Fri, 9 a.m.–12 p.m.; by referral |
+| Moore | St. John’s Episcopal Church Food Pantry | 300 W. New York Avenue, Southern Pines | 910-692-4681 | Open 1st & 3rd Wednesdays, 10 a.m.–12 p.m. |
+| Moore | St. Paul’s Lutheran Church | 118 W. Connecticut Avenue, Southern Pines | 910-692-2287 | Open 2nd & 4th Thursdays, 9:30–11:30 a.m. |
+| Moore | First Baptist Church – Carthage | 118 W. Main Street, Carthage | 910-947-3313 | Open Tuesdays, 10 a.m.–12 p.m. |
+| Nash | Food Bank of Central & Eastern North Carolina – Rocky Mount Branch | 235 W. Raleigh Blvd, Rocky Mount | 252-443-4423 | Open Mon–Fri, 9 a.m.–4 p.m.; call for appointment |
+| Nash | Nash County DSS Food Pantry | 201 W. Washington Street, Nashville | 252-459-9816 | Open Mon–Fri, 8:30 a.m.–5 p.m. |
+| Nash | Rocky Mount Community Outreach | 110 S. Franklin Street, Rocky Mount | 252-446-7996 | Open Tuesdays & Thursdays, 9 a.m.–12 p.m. |
+| Nash | St. John’s Lutheran Church | 123 S. Church Street, Rocky Mount | 252-443-7130 | Open Wednesdays, 10 a.m.–12 p.m. |
+| Nash | New Bethel Baptist Church | 456 Johnson Street, Nashville | 252-459-5201 | Open 1st & 3rd Mondays, 9 a.m.–11 a.m. |
+| New Hanover | Food Bank of Central & Eastern North Carolina – Wilmington Branch | 2220 Carolina Beach Rd, Wilmington | 910-251-1130 | Open Mon–Fri, 8:30 a.m.–4:30 p.m.; call for appointment |
+| New Hanover | Salvation Army – Wilmington | 1800 Dawson St, Wilmington | 910-763-6192 | Open Mon–Fri, 9 a.m.–12 p.m.; soup kitchen daily 11:30 a.m.–12:30 p.m. |
+| New Hanover | St. James AME Church Food Pantry | 401 N 10th St, Wilmington | 910-762-9210 | Open 1st & 3rd Saturdays, 9 a.m.–12 p.m. |
+| New Hanover | Church of the Good Shepherd | 1301 Castle St, Wilmington | 910-762-6686 | Open Tuesdays, 10 a.m.–12 p.m. |
+| New Hanover | Catholic Parish Outreach – Wilmington | 2100 Princess St, Wilmington | 910-763-6183 | Open Wednesdays, 10 a.m.–1 p.m. |
+| Onslow | Onslow Community Outreach | 301 College St, Jacksonville | 910-455-5616 | Open Mon–Fri, 9 a.m.–3 p.m.; call ahead |
+| Onslow | Salvation Army – Jacksonville | 1314 Piney Green Rd, Jacksonville | 910-455-7357 | Pantry open Mon–Fri, 9 a.m.–12 p.m.; soup kitchen daily 12–12:30 p.m. |
+| Onslow | Jacksonville Church of Christ | 102 Evans St, Jacksonville | 910-347-5588 | Open 2nd & 4th Saturdays, 9 a.m.–12 p.m. |
+| Onslow | First Baptist Church – Richlands | 105 E Main St, Richlands | 910-324-3203 | Open Thursdays, 10 a.m.–12 p.m. |
+| Onslow | Faithworks Ministries | 301 Western Blvd, Jacksonville | 910-346-1420 | Open Mon–Wed, 9 a.m.–1 p.m. |
+| Orange | Inter-Faith Council for Social Service | 110 W Main St, Chapel Hill | 919-942-8383 | Open Mon–Fri, 9 a.m.–5 p.m.; call for appointment |
+| Orange | St. Thomas More Catholic Church Pantry | 940 Carmichael St, Chapel Hill | 919-942-0252 | Open 1st & 3rd Wednesdays, 9:30 a.m.–12 p.m. |
+| Orange | UNC Campus Ministry Food Pantry | Chapel Hill | 919-966-4041 | Open weekdays, by appointment; students only |
+| Orange | Community Church of Chapel Hill – Food Pantry | 101 Smith Level Rd, Chapel Hill | 919-942-9420 | Open Tuesdays, 10 a.m.–12 p.m. |
+| Orange | Durham Orange County Emergency Services (DOCES) | Hillsborough | 919-732-8336 | Open Mon–Fri, 8:30 a.m.–4:30 p.m.; call for eligibility |
+| Pamlico | Pamlico County Christian Outreach | 1254 NC-55, Bayboro | 252-745-3445 | Open Mon–Fri, 9 a.m.–4 p.m.; call ahead |
+| Pamlico | Bayboro United Methodist Church Food Pantry | 110 Main St, Bayboro | 252-745-2110 | Open 1st & 3rd Tuesdays, 10 a.m.–12 p.m. |
+| Pamlico | Alliance Community Church | 712 NC-304, Alliance | 252-745-5555 | Open Wednesdays, 11 a.m.–2 p.m. |
+| Pasquotank | Elizabeth City Rescue Mission | 700 S Hughes Blvd, Elizabeth City | 252-338-5150 | Open Mon–Fri, 8 a.m.–4 p.m.; meals served daily |
+| Pasquotank | First Baptist Church Food Pantry | 504 W Ehringhaus St, Elizabeth City | 252-338-3535 | Open Wednesdays, 9 a.m.–12 p.m. |
+| Pasquotank | St. Andrew’s Episcopal Church Pantry | 303 S Road St, Elizabeth City | 252-338-1552 | Open 2nd & 4th Thursdays, 10 a.m.–12 p.m. |
+| Pasquotank | Salvation Army Elizabeth City | 110 N Water St, Elizabeth City | 252-338-4588 | Open Mon–Fri, 9 a.m.–5 p.m.; call for eligibility |
+| Pender | Pender County Christian Services | 609 S Walker St, Burgaw | 910-259-9119 | Open Mon–Fri, 9 a.m.–5 p.m.; call ahead |
+| Pender | Hampstead United Methodist Church Food Pantry | 196 US-17, Hampstead | 910-270-5561 | Open 1st & 3rd Wednesdays, 10 a.m.–12 p.m. |
+| Pender | Burgaw First Baptist Church Pantry | 201 N Wright St, Burgaw | 910-259-2621 | Open Thursdays, 10 a.m.–1 p.m. |
+| Pender | Topsail Area Ministries | 604 US-17, Hampstead | 910-270-9989 | Open Mon–Fri, 9 a.m.–3 p.m. |
+| Perquimans | Perquimans County Senior Services Pantry | 305 N Edenton Rd, Hertford | 252-426-5870 | Open Mon–Fri, 8 a.m.–5 p.m. |
+| Perquimans | Holy Trinity Episcopal Church Food Pantry | 220 N Church St, Hertford | 252-426-2990 | Open 2nd & 4th Thursdays, 9 a.m.–12 p.m. |
+| Person | Person County DSS Food Pantry | 304 S Morgan St, Roxboro | 336-599-1711 | Open Mon–Fri, 8 a.m.–5 p.m.; call ahead |
+| Person | Roxboro United Methodist Church Pantry | 224 N Main St, Roxboro | 336-599-2540 | Open 2nd & 4th Tuesdays, 9 a.m.–12 p.m. |
+| Person | Person County Christian Ministries | 1157 E Church St, Roxboro | 336-599-0342 | Open Mon–Fri, 9 a.m.–1 p.m. |
+| Pitt | Pitt County Community School Pantry | 1717 W 5th St, Greenville | 252-830-4512 | Open Mon–Fri, 9 a.m.–4 p.m. |
+| Pitt | Pitt County Ministry Center | 704 E 10th St, Greenville | 252-355-9612 | Open Mon–Fri, 9 a.m.–1 p.m.; referral required |
+| Pitt | Greenville Dream Center Pantry | 302 East 5th St, Greenville | 252-321-5256 | Open Tues & Thurs, 10 a.m.–1 p.m. |
+| Pitt | Food Bank of Central & Eastern NC – Greenville | 303 S Tarboro St, Greenville | 252-364-2665 | Open Mon–Fri, 8 a.m.–4:30 p.m. |
+| Polk | Tryon Presbyterian Church Food Pantry | 26 Melrose Ave, Tryon | 828-859-6680 | Open 2nd & 4th Wednesdays, 10 a.m.–12 p.m. |
+| Polk | Saluda United Methodist Church Pantry | 40 Church St, Saluda | 828-749-3361 | Open monthly, call ahead for schedule |
+| Polk | Columbus Presbyterian Church Pantry | 1002 E Mills St, Columbus | 828-894-3135 | Open by appointment only |
+| Randolph | Archdale United Methodist Church Food Pantry | 310 Sunset Ave, Archdale | 336-434-7424 | Open 2nd & 4th Thursday, 10 a.m.–12 p.m. |
+| Randolph | Trinity Presbyterian Church Pantry | 201 Worth St, Asheboro | 336-629-3531 | Open 1st & 3rd Tuesday, 10 a.m.–12 p.m. |
+| Randolph | Salvation Army – Asheboro | 113 N Church St, Asheboro | 336-629-2247 | Open Mon–Fri, 9 a.m.–12 p.m. |
+| Richmond | Christ Memorial Church | 1110 E. Washington St., Rockingham | 910-215-3685 | Open Saturdays, 8–10 a.m. |
+| Richmond | Church of God of Prophecy/Ellerbe | 122 Jackson St., Ellerbe | 910-652-3593 | Open Tues & Wed, 9:30–11 a.m., and Saturdays for emergencies |
+| Richmond | Faith Assembly Church | 148 Daniels St., Hamlet | 910-997-4391 | Soup Kitchen Tues 5:45–7 p.m.; Sun delivery 9–10 a.m.; Food pantry Sat 10–11:30 a.m. |
+| Richmond | Feed A Family | 560 Airport Rd., Rockingham | 910-995-9607 | Open Thurs 10:30 a.m.–2 p.m. (emergency food/clothing also available) |
+| Richmond | Helping Hands of Hamlet | 609 Cheraw Rd., Hamlet | 910-334-1009 | Open Thurs 11 a.m.–2 p.m. |
+| Richmond | Jesus Is Justice Mission, Inc. | 469 Mills Rd., East Rockingham | 917-566-1961 | Open Thurs 1–3 p.m. |
+| Richmond | King’s Gate Church | 161 Sierra Ave., Hamlet | 910-995-2943 | Open Tues 10:30 a.m.–1 p.m. |
+| Richmond | Mineral Springs Improvement Council, Inc. | 122 Railroad St., Ellerbe | 910-434-3160 | Open Tues 2–3 p.m. |
+| Richmond | Our Daily Bread Christian Food Ministries | 108 S. Randolph St., Rockingham | 910-895-3536 / 910-895-3537 | Open Tues–Thurs, 9:30 a.m.–12:30 p.m. |
+| Richmond | Place of Grace Emergency Food Pantry | 252 School Rd., Rockingham | 910-819-7801 | Open Mon & Wed, 9 a.m.–7 p.m. |
+| Richmond | Prayer and Faith Temple Church | 205 Thomas St., Hamlet | 910-582-1177 | Open 2nd & 4th Wed, 10 a.m.–12 p.m. |
+| Richmond | Sandhills Branch of Food Bank | 195 Sandy Ave., Southern Pines | 910-692-5959 | Open Mon–Fri, 8 a.m.–4:30 p.m. |
+| Richmond | St. Paul Lutheran | 311 Marlboro St., Hamlet | 910-582-0729 / 910-995-5004 | Open 3rd Sat monthly, 9–11:30 a.m. (emergency assistance) |
+| Richmond | Tabernacle Full Gospel | 328 Airport Rd., Rockingham | 910-419-4271 | Open Thurs biweekly at noon |
+| Rowan | Big Elm Retirement, Inc. | 905 McKnight St, Kannapolis | 704-933-5862 | Produce offered 2nd Wed monthly, 10 a.m.–1 p.m.; Food pantry available Mon & Fri mornings while supplies last. Call for info. |
+| Rowan | Freedom Christian Worship Center | 509 China Grove Hwy E., Rockwell | 704-267-5197 | Open Wed 8:30 a.m.–noon |
+| Rowan | Gethsemane Food Outreach | 1114 W. Horah St., Salisbury | 704-637-6036 | Open Wed 8:30 a.m.–noon |
+| Rowan | Grateful Heart Community Services | 706 Dunns Mountain Rd., Salisbury | 704-202-9226 | Open Mon & Thurs 5–6 p.m. |
+| Rowan | Rock Hill SDA Hispanic | 728 Southwest St., Salisbury | 704-307-8925 | Open Sat 3–6 p.m. |
+| Rowan | Rowan Helping Ministries | 226 N. Long St., Salisbury | 704-637-6838 | Open Mon–Fri 9 a.m.–3:30 p.m.; Soup kitchen noon–1 p.m. |
+| Rowan | Salvation Army of Salisbury | 620 Bringle Ferry Rd., Salisbury | 704-636-6491 | Open Mon–Thu 9 a.m.–noon & 1–5 p.m.; Fri 9 a.m.–noon |
+| Rowan | Shadybrook Baptist Church-Kannapolis | 1009 Oakwood Ave., Kannapolis | 704-932-6169 | Open Thu 1–3 p.m. |
+| Rowan | South Side Community Outreach Pantry and Soup Kitchen | 157 Columbus Ave., China Grove | 704-792-5586 | Open Tue noon–3 p.m. |
+| Stanly | Salvation Army Concord in Albemarle | 118 Heath St., Albemarle | 704-782-7822 | Open Wed 10:30–11:45 a.m. & 1–2 p.m. |
+| Stanly | Stanly Christian Ministry – Albemarle | 506 S. First St., Albemarle | 704-982-7915 | Pantry Mon–Thu 9 a.m.–4 p.m., Fri 9 a.m.–noon; Soup kitchen daily 11 a.m.–12:30 p.m. |
+| Stanly | Stanly Christian Ministry Norwood | 247 W. Turner St., Norwood | 704-982-7915 | Pantry Mon 2–6 p.m.; Soup kitchen daily 11 a.m.–12:30 p.m. |
+| Stanly | West Stanly Christian Ministries | 100 S. Love Chapel Rd., Stanfield | 704-888-6406 | Open Mon–Fri 9 a.m.–3 p.m. |
+| Tyrrell County | No listings available | | | |
+| Union | Common Heart Common Cupboard - Stallings United Methodist | 1115 Stallings Road, Stallings | 704-218-9060 | Open Fridays, 7–8 p.m. |
+| Union | Common Heart at Union United Methodist Church | 6315 New Town Road, Waxhaw | 704-218-9060 | Open Thursdays, 7–8 p.m. |
+| Union | Common Heart at Wingate Baptist Church | 109 East Elm St., Wingate | 704-218-9060 | Open Tuesdays, 7–8 p.m. |
+| Union | Common Heart Common Cupboard Indian Trail | 116A Business Park Dr., Indian Trail | 704-218-9060 | Open by appointment only |
+| Union | Common Heart at Benton Heights Presbyterian | 2701 Concord Highway, Monroe | 704-218-9060 | Open Mondays, 7–8 p.m. |
+| Union | Community Shelter of Union County-Pantry | 60 Meadow St., Monroe | 704-261-3491 | Open second Tuesdays monthly, 4:30–5:30 p.m. |
+| Union | Community Shelter of Union County-Soup Kitchen | 160 Meadow St., Monroe | 704-289-5300 | Open daily 8–9 a.m., noon–1 p.m., and 6–7 p.m. |
+| Union | Manna From Heaven | 1712 Musselwhite Road, Wingate | 704-309-5332 | Open Mon, Wed, Fri, noon–2 p.m. |
+| Union | Thomas Rogers Food Pantry | 2005 Claude Austin Road, Monroe | 980-239-5857 | Open first & second Tues & Wed monthly, 10 a.m.–noon & 4–6 p.m. |
+| Watauga | Blowing Rock Cares Food Pantry | 1218 Main St., Blowing Rock | 828-532-3323 | Open Wednesdays, 9 a.m.–noon |
+| Watauga | Casting Bread Free Market & Café | 194 Aho Road, Blowing Rock | 828-783-3510 | Free lunch on Wed & Thu, 11 a.m.–2 p.m.; pantry pick-up 10 a.m.–3 p.m. |
+| Watauga | F.a.r.m. (Feed all Regardless of Means) Café | 617 W King St., Boone | 828-386-1000 | Pay-what-you-can; kids ≤12 eat free; open Mon–Fri, 11 a.m.–2 p.m. |
+| Watauga | Greenway Baptist Church Food Pantry | 880 Greenway Road, Boone | 828-264-7750 | Open Thursdays, 10 a.m.–2:30 p.m. |
+| Watauga | Hospitality House Bread of Life Community Kitchen | 338 Brook Hollow Road, Boone | 828-264-1237 | Open daily 6:30–8:30 a.m., 11:30 a.m.–1 p.m., 5:30–6:30 p.m. |
+| Watauga | Hospitality House Food Pantry – bodega style | 338 Brook Hollow Road, Boone | 828-264-1237 | Open daily, noon–4 p.m. |
+| Watauga | Hunger and Health Coalition | 141 Health Center Drive, Suite C, Boone | 828-262-1628 | Open Mon–Fri, 9 a.m.–4 p.m. |
+| Watauga | Little Free Pantry of Boone | 130 Poplar Grove Road Connector, Boone | 828-773-8199 | Always open |
+| Watauga | Mountaineer Food Hub and Food Pantry Network | Various locations around Appalachian State University campuses | | Available to students, staff, and faculty |
+| Watauga | Western Watauga Food Outreach free community meal | 1081 Old US Highway 421, Sugar Grove | 828-297-6233 | Served Thursdays, 4–6 p.m. |
+| Wayne | No listings available | | | |
+| Wilson | No listings available | | | |
+| Yadkin | No listings available | | | |
+| Yancey County | No listings available | | | |
