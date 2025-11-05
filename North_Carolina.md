@@ -30,6 +30,8 @@
 | Bladen | First Baptist Church of Bladenboro | 500 S. Main Street, Bladenboro | 910-863-3618 | Second Saturdays 9 a.m. to 11 a.m. |
 | Bladen | Bladen Crisis Food Pantry | 208 South Morehead Street, Elizabethtown | 910-879-1032 | Residents age 62 and older can access the food pantry every first and third Thursday of the month from 9:30 a.m. to 12:30 p.m. All other residents are served on the second and fourth Thursdays |
 | Bladen | Windsor United Methodist Food Pantry | 12863 Highway 242, Elizabethtown | 910-588-4602 | 3rd Saturdays  10 a.m. to noon |
+| Brunswick | The Lord's Food Pantry | 3610 Express Drive, Shallotte | 910-477-3430 | Fridays 4:30-6 p.m. / Saturdays -10 a.m. - Noon |
+The Lord's Food Pantry
 | Buncombe | Calvary Episcopal Church | 2840 Hendersonville Rd., Asheville | 828-684-6266 | Saturdays 8 a.m. to 11 a.m. |
 | Buncombe | Trinity of Fairview | 646 Concord Rd., Fletcher | 828-628-1188 | Tuesdays, 9 a.m. to 1 p.m. |
 | Burke | Abernathy Memorial UMC/ Wright’s Food Pantry | 960 Malcolm Blvd., Rutherford College | 828-879-8894 | 4th Sat monthly, 8 to 11 a.m. |
@@ -67,7 +69,8 @@
 | Caldwell | Poovey’s Chapel Baptist Church | 2822 Poovey’s Chapel Church Road, Hudson | 828-728-7210 | Last Sat monthly, 10 to 11 a.m. |
 | Caldwell | Salvation Army | 4370 Hickory Blvd., Granite Falls | 828-322-8061 | Mon, 10 a.m. to 1 p.m. |
 | Caldwell | South Caldwell Christian Ministries | 5 Quarry Road, Granite Falls | 828-396-4000 | Tue-Thu, call for times |
-| Camden County | No listings available | | | |
+| Camden County | Camden Food Pantry | 197 NC HWY 343 South Camden | 252-339-0505 | Generally 1st and 3rd Tuesday 09:30 a.m. - 11 a.m. |
+| Carteret | The Storehouse Food Pantry | 3114 Bridges st., Morehead City, NC | 252-725-5539 | M, T, W - 10 a.m. - 1 p.m. |
 | Caswell County | No listings available | | | |
 | Catawba | Ashure Ministry Inc. | 245 East N. St., Newton | 828-465-1702 | Open Mondays through Thursdays, 8:30 a.m. to 4:30 p.m. |
 | Catawba | Drexel First Baptist Church | 200 S. Main St., Drexel | 828-437-3351 | Open second Sundays monthly, 4:30 to 6 p.m. |
