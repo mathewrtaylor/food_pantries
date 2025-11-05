@@ -70,8 +70,12 @@ The Lord's Food Pantry
 | Caldwell | Salvation Army | 4370 Hickory Blvd., Granite Falls | 828-322-8061 | Mon, 10 a.m. to 1 p.m. |
 | Caldwell | South Caldwell Christian Ministries | 5 Quarry Road, Granite Falls | 828-396-4000 | Tue-Thu, call for times |
 | Camden County | Camden Food Pantry | 197 NC HWY 343 South Camden | 252-339-0505 | Generally 1st and 3rd Tuesday 09:30 a.m. - 11 a.m. |
-| Carteret | The Storehouse Food Pantry | 3114 Bridges st., Morehead City, NC | 252-725-5539 | M, T, W - 10 a.m. - 1 p.m. |
-| Caswell County | No listings available | | | |
+| Carteret | The Storehouse Food Pantry | 3114 Bridges st., Morehead City | 252-725-5539 | M, T, W - 10 a.m. - 1 p.m. |
+| Caswell | Caswell County Parish, Inc. | 1038 Main Street Yanceyville | 336-694-6428 | Tues & Thur 9:30am – 4:45pm, 
+Call ahead to make an appointment for food pickup |
+| Caswell | County Outreach Ministry | 225 Third Street, Yanceyville | 336-694-4224 | 2nd Thursday 11 a.m. to 1 p.m. & 2 p.m. to 4 p.m. |
+| Caswell | Locust Hill United Methodist Church | 281 Stoney Creek School Road, Reidsville | 336-388-2489 | 2nd Thursday 5:30pm | 
+| Caswell | Shady Grove United Methodist Church | 1705 Shady Grove Rd, Providence | 336-388-2750 | 2nd Monday 5:30 p.m. to 7 p.m. |
 | Catawba | Ashure Ministry Inc. | 245 East N. St., Newton | 828-465-1702 | Open Mondays through Thursdays, 8:30 a.m. to 4:30 p.m. |
 | Catawba | Drexel First Baptist Church | 200 S. Main St., Drexel | 828-437-3351 | Open second Sundays monthly, 4:30 to 6 p.m. |
 | Catawba | East Burke Christian Ministry | 103 Third Ave. SE., Hildebran | 828-397-7074 | Open Tuesdays, 9 a.m. to 4 p.m. and Thursdays, 9 a.m. to noon |
