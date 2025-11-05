@@ -92,7 +92,10 @@ Call ahead to make an appointment for food pickup |
 | Catawba | Shady Grove United Methodist | 6908 Oak Ridge Church Road, Connelly Springs | 828-238-1143 | Open Wednesdays, 4:30 to 6 p.m. |
 | Catawba | The Corner Table soup kitchen | 122 N. Main St., Newton | 828-464-0355 | Open Mondays through Fridays, 11:30 a.m. to 12:30 p.m. |
 | Catawba | Viewmont Baptist Church | 1246 Second St. NE., Hickory | 828-322-6732 | Open Mondays, 10 a.m. to 1 p.m. |
-| Chatham County | No listings available | | | |
+| Chatham | Emmanuel Fellowship COGIC | 336 Alston Bridge Rd, Siler City | 919-742-4899 | Wednesdays 6 – 8pm or by appointment | 
+| Chatham | Haw River Baptist Church | 1099 Mount Gilead Church Rd, Pittsboro | 919-542-2214 | 2nd Saturday 9 a.m. to 12 p.m. |
+| Chatham | Monecure Baptist Church | 75 Davenport St, Moncure | 919-542-4990 | Sunday 9 a.m. – 12:30 p.m. or as arranged with John Howard |
+| Chatham | St. Julia Catholic Church | 210 Harold Hart Rd, Siler City | 919-742-5584 | 3rd Tuesday Car line up begins at 8:30 a.m. |
 | Cherokee County | No listings available | | | |
 | Chowan County | No listings available | | | |
 | Cleveland | Bethlehem Baptist Church | 1017 Bethlehem Road, Kings Mountain | 704-739-7487 | Open Mondays, 3 to 5 p.m. |
