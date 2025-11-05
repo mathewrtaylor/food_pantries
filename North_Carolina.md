@@ -96,8 +96,8 @@ Call ahead to make an appointment for food pickup |
 | Chatham | Haw River Baptist Church | 1099 Mount Gilead Church Rd, Pittsboro | 919-542-2214 | 2nd Saturday 9 a.m. to 12 p.m. |
 | Chatham | Monecure Baptist Church | 75 Davenport St, Moncure | 919-542-4990 | Sunday 9 a.m. – 12:30 p.m. or as arranged with John Howard |
 | Chatham | St. Julia Catholic Church | 210 Harold Hart Rd, Siler City | 919-742-5584 | 3rd Tuesday Car line up begins at 8:30 a.m. |
-| Cherokee County | No listings available | | | |
-| Chowan County | No listings available | | | |
+| Cherokee | Cherokee County Food Bank, Inc. | 122 Main Street, Andrews | 828-321-5512 | Tuesday & Saturday: 10am – Noon |
+| Chowan | Edenton Chowan Food Pantry | 1370 N Broad St, Edenton | 252-482-2504 | M, F - 9 a.m. to 11 a.m. |
 | Cleveland | Bethlehem Baptist Church | 1017 Bethlehem Road, Kings Mountain | 704-739-7487 | Open Mondays, 3 to 5 p.m. |
 | Cleveland | Central United Methodist Church | 113 S. Piedmont Ave., Kings Mountain | 704-739-2471 | Open Thursdays, 3 to 4:30 p.m. |
 | Cleveland | Central United Methodist soup kitchen | 200 E. Marion St., Shelby | 704-487-6336 | Hot lunches to go at 10:30 a.m. |
