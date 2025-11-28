@@ -31,7 +31,6 @@
 | Bladen | Bladen Crisis Food Pantry | 208 South Morehead Street, Elizabethtown | 910-879-1032 | Residents age 62 and older can access the food pantry every first and third Thursday of the month from 9:30 a.m. to 12:30 p.m. All other residents are served on the second and fourth Thursdays |
 | Bladen | Windsor United Methodist Food Pantry | 12863 Highway 242, Elizabethtown | 910-588-4602 | 3rd Saturdays  10 a.m. to noon |
 | Brunswick | The Lord's Food Pantry | 3610 Express Drive, Shallotte | 910-477-3430 | Fridays 4:30-6 p.m. / Saturdays -10 a.m. - Noon |
-The Lord's Food Pantry
 | Buncombe | Calvary Episcopal Church | 2840 Hendersonville Rd., Asheville | 828-684-6266 | Saturdays 8 a.m. to 11 a.m. |
 | Buncombe | Trinity of Fairview | 646 Concord Rd., Fletcher | 828-628-1188 | Tuesdays, 9 a.m. to 1 p.m. |
 | Burke | Abernathy Memorial UMC/ Wright’s Food Pantry | 960 Malcolm Blvd., Rutherford College | 828-879-8894 | 4th Sat monthly, 8 to 11 a.m. |
@@ -71,8 +70,7 @@ The Lord's Food Pantry
 | Caldwell | South Caldwell Christian Ministries | 5 Quarry Road, Granite Falls | 828-396-4000 | Tue-Thu, call for times |
 | Camden County | Camden Food Pantry | 197 NC HWY 343 South Camden | 252-339-0505 | Generally 1st and 3rd Tuesday 09:30 a.m. - 11 a.m. |
 | Carteret | The Storehouse Food Pantry | 3114 Bridges st., Morehead City | 252-725-5539 | M, T, W - 10 a.m. - 1 p.m. |
-| Caswell | Caswell County Parish, Inc. | 1038 Main Street Yanceyville | 336-694-6428 | Tues & Thur 9:30am – 4:45pm, 
-Call ahead to make an appointment for food pickup |
+| Caswell | Caswell County Parish, Inc. | 1038 Main Street Yanceyville | 336-694-6428 | Tues & Thur 9:30am – 4:45pm, Call ahead to make an appointment for food pickup |
 | Caswell | County Outreach Ministry | 225 Third Street, Yanceyville | 336-694-4224 | 2nd Thursday 11 a.m. to 1 p.m. & 2 p.m. to 4 p.m. |
 | Caswell | Locust Hill United Methodist Church | 281 Stoney Creek School Road, Reidsville | 336-388-2489 | 2nd Thursday 5:30pm | 
 | Caswell | Shady Grove United Methodist Church | 1705 Shady Grove Rd, Providence | 336-388-2750 | 2nd Monday 5:30 p.m. to 7 p.m. |
@@ -140,20 +138,33 @@ Call ahead to make an appointment for food pickup |
 | Gaston | St. Paul's United Methodist Church | 711 W. Main Ave., Gastonia | 704-867-1899 | Pantry: First and third Mondays, 10 a.m. to noon |
 | Gaston | United Christian Ministries | 107 E. Franklin Blvd., Gastonia | 704-864-6690 | Pantry: Mon, Wed, Fri, 9 a.m. to noon |
 | Gaston | Yorks Corner Outreach Ministry | 2100 Yorks Corner Rd., Gastonia | 704-864-2382 | Pantry open third Saturdays monthly, 10 a.m. to noon |
-| Graham | No listings available | N/A | N/A | N/A |
+Graham | Five Point Center Inc. - Client Choice Pantry & Community Meals (Grace Place) | (Robbinsville area) | (828) 346-6131 | Operates a Client Choice Pantry and Community Meals (Grace Place). Please Call to get the current physical address, specific operating hours, and to confirm service details. |
+Graham | Graham County Senior Center (Congregate Meals & Meals on Wheels) | 185 West Fort Hill Rd, Robbinsville, NC 28771 | (828) 479-7640 | Congregate Lunch served daily at 11:30 AM at the center for seniors aged 60+ (donations accepted). Offers Meals on Wheels for homebound seniors. |
+Graham | MANNA Food Bank Helpline (Referrals & SNAP Assistance) | (Regional Service) | 1-800-820-1109 | Provides referrals for emergency food pantries in Western NC and assistance with Food Assistance (SNAP/FNS) applications and recertifications. |
 | Granville | Granville County Department of Social Services | 211 East Bloom St., Oxford | 919-693-1950 | Call for food pantry availability and appointment |
 | Granville | Food Bank of Central & Eastern North Carolina – Granville Distribution | 101 W. Wall St., Oxford | 919-693-1155 | Open by appointment; call ahead for schedule |
 | Granville | South Oxford Baptist Church | 405 E. Church St., Oxford | 919-693-2994 | Pantry open first and third Wednesdays monthly, 9 a.m. to noon |
 | Granville | St. Michael’s Episcopal Church | 203 W. Wall St., Oxford | 919-693-7964 | Pantry open Mondays, 10 a.m. to noon |
 | Granville | Granville United Christian Ministries | 112 S. Main St., Butner | 919-575-1070 | Pantry open Tues & Thurs, 9 a.m. to 12 p.m.; call for soup kitchen availability |
-| Greene | No listings available | N/A | N/A | N/A |
+| Greene | Greene County Interfaith Volunteers | 412 Kingold Boulevard, Snow Hill, NC 28580 | (252) 747-1090 | Food boxes dispensed on the 1st and 3rd Thursday of the month from 11:00 a.m. – 1:00 p.m. Call to confirm other potential service times. |
+| Greene | Greene County Senior Center | 104 Greenridge Road, Snow Hill, NC 28580 | (252) 747-5436 | Offers Free Senior Lunch (Congregate Meals) on-site Monday–Friday at 12 p.m. for residents age 60 and older (no income limits). Call for meal reservations. Also provides Meals on Wheels for homebound seniors. |
+| Greene | Greene County Department of Social Services (DSS) | 227 Kingold Blvd., Snow Hill, NC 28580 | (252) 747-5932 | 	Provides assistance with applications for Food & Nutrition Services (FNS/SNAP) (formerly known as Food Stamps). |
 | Guilford | Greensboro Urban Ministry | 307 S. Market St., Greensboro | 336-271-5959 | Pantry open Mon-Fri, 9 a.m. to 4 p.m.; call for appointment |
 | Guilford | Catholic Charities Diocese of Greensboro | 401 N. Elm St., Greensboro | 336-378-6060 | Pantry open Mon, Wed, Fri, 9 a.m. to 12 p.m. |
 | Guilford | Gate City Community Ministries | 500 Gate City Blvd., Greensboro | 336-375-5510 | Pantry open Tues & Thurs, 10 a.m. to 2 p.m. |
 | Guilford | Salvation Army Greensboro | 800 Eugene St., Greensboro | 336-378-6781 | Pantry open Mon-Fri, 10 a.m. to 2 p.m.; call for soup kitchen schedule |
 | Guilford | Open Door Ministries | 1305 E. Wendover Ave., Greensboro | 336-275-9696 | Pantry open Mon-Fri, 9 a.m. to 5 p.m. |
 | Guilford | Triad Food Pantry | 2201 Muirs Chapel Rd., Greensboro | 336-123-4567 | Pantry open Wednesdays, 9 a.m. to 1 p.m. |
-| Halifax | No listings available | N/A | N/A | N/A |
+| Halifax | Union Mission of Roanoke Rapids (Pantry/Hot Meals) | 1310 Roanoke Ave, Roanoke Rapids, NC | 252-537-3372 | Emergency food boxes: Mon-Thu, 9:00 a.m. - 5:00 p.m. (must have valid ID, twice a year limit). To-go meal after chapel: Mon-Thu, 4:00 p.m. |
+| Halifax | Temple Emmanuel Gospel Truth (Pantry/Soup Kitchen) | 9 East 8th St, Weldon, NC | 252-308-2277 | Pantry: 1st Friday of each month, 2:00 p.m. - 5:00 p.m. Soup Kitchen: Sundays, 11:00 a.m. - 12:00 p.m. Call for emergencies. |
+| Halifax | Concerned Citizens Of Tillery | 321 Community Center Rd, Halifax, NC | 252-826-2234 | Tuesdays, 9:00 a.m. - 2:00 p.m. Call for emergencies. |
+| Halifax | Catholic Charities Mobile Food Pantry | 900 Hamilton St, Roanoke Rapids, NC | 252-355-5111 | 1st Wednesday of each month, 11:00 a.m. - 1:00 p.m. (Located at St. John the Baptist Catholic Church). |
+| Halifax | Fidelity Baptist Church | 627 Summit Rd, Littleton, NC | 252-676-9156 | Wednesdays, 1:00 p.m. - 2:00 p.m.; 4th Tuesday of each month, 10:00 a.m. - 11:00 a.m. |
+| Halifax | Building Bridges Without Limits | 577 E Franklin St, Enfield, NC | 252-445-2272 | Saturdays, 12:00 p.m. - 2:00 p.m. |
+| Halifax | Community of Hope Center | 201 Batchelor Avenue, Enfield, NC | 252-908-1583 | Every 3rd Thursday of the month, 10:00 a.m. - 4:00 p.m. |
+| Halifax | A Better Chance, A Better Community | 6878 Old 125 Rd, Scotland Neck, NC | 252-673-5080 | Appointment Only, 10:00 a.m. - 4:00 p.m. |
+| Halifax | Halifax County Senior Nutrition Services (Council on Aging) | 4421 US Hwy 301, Halifax, NC | 252-538-6755 | Provides Home-Delivered Meals (Meals on Wheels) and Congregate Meals for seniors (60+). Please Call. |
+| Halifax | Ripe for Revival (Mobile Market) | E. South Main St, Littleton, NC | Check Website  | Wednesdays, 3:00 p.m. - 4:30 p.m. (Check website for specific location updates) |
 | Harnett | Harnett County Community Action Agency | 505 W. Cornelius Harnett Blvd., Lillington | 910-814-4600 | Pantry open Mon-Fri, 9 a.m. to 4 p.m.; call for appointment |
 | Harnett | Love and Care Ministries | 101 W. 9th St., Dunn | 910-892-3456 | Pantry open Tues & Thurs, 10 a.m. to 2 p.m. |
 | Harnett | Salvation Army Harnett County | 1101 W. Broad St., Dunn | 910-892-6789 | Pantry open Mon-Fri, 9 a.m. to 1 p.m.; call for soup kitchen hours |
@@ -163,21 +174,39 @@ Call ahead to make an appointment for food pickup |
 | Henderson | Hendersonville Community Pantry | 106 7th Ave. W., Hendersonville | 828-692-7111 | Pantry open Mon-Fri, 9 a.m. to 5 p.m.; call ahead |
 | Henderson | Salvation Army Hendersonville | 200 5th Ave. W., Hendersonville | 828-693-1526 | Pantry open Mon-Fri, 9 a.m. to 1 p.m.; soup kitchen Tues & Thurs, noon to 1 p.m. |
 | Henderson | Open Hands of Henderson County | 101 College St., Hendersonville | 828-692-5025 | Pantry open Wed & Fri, 10 a.m. to 2 p.m. |
-| Hertford | No listings available | N/A | N/A | N/A |
+| Hertford | Ahoskie Food Pantry | 701 E Church St, Ahoskie, NC 27910 | 252-676-8065 | Mon - Fri, 9:30 a.m. – 12:00 p.m. Hertford Co. residents only; referrals required. |
+| Hertford | Calvary Missionary Baptist Church | 600 N. Alton St, Ahoskie, NC 27910 | 252-332-3775 | 4th Saturday of each month, 8:00 a.m. – 10:00 a.m. (Drive-thru pick up). |
+| Hertford | St. Paul's Food for Families Pantry | 101 Rhue St, Murfreesboro, NC 27855 | 252-398-8046 | Mon, Wed, Fri, 10:00 a.m. – 4:00 p.m.; Saturdays, 10:00 a.m. – 12:00 p.m. |
+| Hertford | Mobile Food Pantry (at Murfreesboro Baptist Church) | 200 W Main St, Murfreesboro, NC 27855 | 252-398-3613 | 	3rd Tuesday of every month, 1:00 p.m. – 2:30 p.m. Hertford Co. residents. |
+| Hertford | Victory of Praise Food Pantry | 1750 NC Highway 45 S, Cofield, NC 27922 | 252-356-4699 | 2nd Saturday of every month, 8:00 a.m. – 10:00 a.m. |
+| Hertford | St. Johns 2nd Baptist Church Food Pantry | 948 NC 561 W, Aulander, NC 27805 | 252-395-3067 | 3rd Saturday of each month, 11:00 a.m. – 1:00 p.m. (Curbside assistance only). |
+| Hertford | Zion Grove Missionary Baptist Church | 1631 NC Hwy. 561 W, Aulander, NC 27805 | 252-345-4531 | 3rd Tuesday of each month, 9:00 a.m. – 11:00 a.m. |
 | Hoke | Hoke County Community Action | 1624 E. Central Ave., Raeford | 910-875-6611 | Pantry open Mon-Fri, 9 a.m. to 4 p.m.; call ahead |
 | Hoke | Raeford United Methodist Church Pantry | 200 W. Main St., Raeford | 910-875-2200 | Pantry open Tues & Thurs, 10 a.m. to 2 p.m. |
 | Hoke | Salvation Army Hoke County | 1220 N. Main St., Raeford | 910-875-6677 | Pantry open Mon-Fri, 9 a.m. to 1 p.m.; soup kitchen hours by appointment |
-| Hyde | No listings available | N/A | N/A | N/A |
+| Hyde | BRACE Community Outreach | 4240 US Hwy 264, Scranton | 252-542-0525 | 3rd Wednesday of each month, 10:00 a.m. – 2:00 p.m.; Call for emergencies. |
+| Hyde | CSFP BRACE Senior Boxes | 4240 US Hwy 264, Scranton | 252-542-0525 | 3rd and 4th Wednesday of each month, 10:00 a.m. – 2:00 p.m. (For individuals age 60 and up; must be signed up). |
+| Hyde | CSFP Jobe's Chapel Baptist Church | 121 Swan Quarter Rd, Swans Quarter | 252-814-5042 | 3rd Monday of each month, 11:00 a.m. – 1:00 p.m. (For individuals age 60 and up; must be signed up). |
+| Hyde | Mobile Food Pantry (Englehard Fire Department) | 34545 US Hwy 264, Englehard | 252-423-0045 | 4th Wednesday of each month, 1:30 p.m. – 3:30 p.m. |
+| Hyde | Mobile Food Pantry (Swan Quarter, O A Peay Building) | 1430 Main Street, Swan Quarter | 252-423-0045 | 4th Wednesday of each month, 11:00 a.m. – 1:00 p.m. |
 | Iredell | Feed NC – Mooresville | 2456 Charlotte Highway, Mooresville | 704-660-9010 | Open Mon-Fri, breakfast 9–11 a.m., lunch 11 a.m.–2 p.m. |
 | Iredell | Help Ministries of Troutman, Inc. | 239 Lytton St., Troutman | 704-528-0779 | Open Mon 3–4 p.m., Wed 4–5 p.m., Fri 5–6 p.m. |
 | Iredell | Mooresville Christian Mission (TEFAP & CSFP) | 919 N. Main St., Mooresville | 704-664-2357 | Open Tues 10 a.m.–5 p.m.; Wed–Fri 9 a.m.–5 p.m. |
 | Iredell | Troutman Community (TEFAP Provider) | 478 S. Main St., Troutman | 704-528-5175 | Open 2nd & 4th Wed, 9–11:30 a.m. |
-| Jackson | No listings available | N/A | N/A | N/A |
+| Jackson | The Community Table (Soup Kitchen & Pantry) | 23 Central St, Sylva, NC 28779 | 828-586-6782 | Meals: Mon, Tue, Thu, Fri, 4:00 p.m. – 5:30 p.m. Pantry: Mon, Tue, Thu, Fri, 11:00 a.m. – 5:30 p.m. (Groceries for home use; Jackson County residents, return every 2 weeks). |
+| Jackson | United Christian Ministries | 191 Skyland Drive, Sylva, NC 28779 | 828-586-8228 | Mon, Thu, Fri: 10:00 a.m. – 3:00 p.m. Tue: 12:30 p.m. – 5:00 p.m. Wed: 10:00 a.m. – 12:30 p.m. (Client-choice food pantry). |
+| Jackson | Fishes & Loaves Food Pantry | 543 Frank Allen Road, Cashiers, NC 28717 | 828-743-4931 | Mon & Thu: 4:30 p.m. – 6:30 p.m. (Serves Jackson County and surrounding WNC areas). |
+| Jackson | Cornbread & Roses Community Counseling | 1294 Savannah Drive, Sylva, NC 28779 | N/A (General Info: info@cbrcounseling.org) | Low-barrier, client-choice pantry. Call or check website for current open pantry days and hours. No application or ID required. |
 | Johnston | Meals on Wheels Johnston County | 127 W. Market St., Smithfield | 919-989-1820 | Call ahead for assistance; meal delivery available |
 | Johnston | Johnston County Community Action | 118 W. Johnston St., Smithfield | 919-934-2950 | Pantry open Mon-Fri, 9 a.m.–4 p.m. |
 | Johnston | Food for Families Pantry | 402 S. Third St., Benson | 919-894-7018 | Pantry open Tue & Thu, 9 a.m.–1 p.m. |
 | Johnston | Johnston County Salvation Army | 113 N. Second St., Smithfield | 919-934-9260 | Pantry open Mon-Fri, 9 a.m.–1 p.m.; call for soup kitchen info |
-| Jones | No listings available | N/A | N/A | N/A |
+| Jones | The Filling Station (Food Pantry) | 221 Main St, Pollocksville, NC 28573 | 252-224-1127 | Tue & Thu: 9:00 a.m. until all boxes are distributed. Drive-through service. |
+| Jones | Trenton Food Pantry (Jones County Community Hope) | 432 1st Ave, Trenton, NC 28585 | 252-670-7093 | Wednesdays: 4:00 p.m. – 6:00 p.m. (TEFAP distribution is on the 2nd Wednesday of the month, 4:00 p.m. – 6:00 p.m.). |
+| Jones | Adelphia CDC Inc Belgrade (Food Pantry) | 482 Springs Hill Rd, Maysville, NC | 252-259-9082 | 2nd Thursday of each month, 9:00 a.m. 4th Thursday of each month, 10:00 a.m. |
+| Jones | Maysville Methodist Church (Food Pantry) | 804 Foy Ave, Maysville, NC | 910-743-3691 | 3rd Monday of each month, 9:00 a.m. – 11:00 a.m. |
+| Jones | New Hope Community Outreach (Food Pantry) | 504 Main St, Maysville, NC | 910-581-0937 | 2nd Thursday of each month, 9:00 a.m. |
+| Jones | Religious Community Services (RCS) | 919 George St, New Bern, NC (Craven Co.) | 252-633-2767 | Community Kitchen: Mon–Sat, 10:30 a.m. – 11:30 a.m.; Sun, 8:30 a.m. Food Pantry: Call for appointment. Note: Located outside Jones County, but serves the region. |
 | Lee | Central Carolina Community College Food Pantry | 1105 Kelly Dr., Sanford | 919-718-7200 | Open Mon-Fri, call ahead for hours |
 | Lee | Lee County Department of Social Services | 106 Hillcrest Dr., Sanford | 919-718-4640 | Pantry assistance by appointment |
 | Lee | Salvation Army – Sanford | 1201 S. Horner Blvd., Sanford | 919-774-4191 | Pantry open Mon-Fri, 9 a.m.–4 p.m.; call for soup kitchen info |
@@ -193,7 +222,18 @@ Call ahead to make an appointment for food pickup |
 | Lincoln | Laurel Hill United Methodist Church | 731 Highway 18 N., Vale | 704-276-1411 | Open Thursdays, 6–7 p.m. |
 | Lincoln | Tuckers Grove Food Pantry | 4501 Highway 73, Iron Station | 704-858-4429 | Open 3rd Saturdays monthly, 9 a.m.–12 p.m. |
 | Lincoln | Zion Hill Baptist Church / Washington Missionary | 3460 Zion Hill Road, Cherryville | 704-692-4023 | Open 1st & 3rd Saturdays monthly, 11 a.m.–12 p.m. |
-| McDowell | No listings available | N/A | N/A | N/A |
+| McDowell | Martha Simmons Food Pantry (St. John's Episcopal Church) |	339 S. Main St, Marion, NC | (828) 652-4144 | Fridays 4:00 PM – 6:00 PM; Located in the Parish House. |
+| McDowell | Centro Unido Latino Americano (CULA) - Helping Hands Food Pantry | 79 Academy Street, Marion, NC 28752 | (828) 652-0727 | Every other Thursday 12:00 PM - 5:00 PM; Drive-through pantry with premade boxes; Enter Hillcrest Rd. (Alternative support language: Spanish) |
+| McDowell | Grace Community Church Food Pantry | 5182 US 70 West, Marion, NC | (828) 724-9599 | 1st Wednesday of each month, 3:00 PM – 4:30 PM; Drive-up pantry; Emergency food boxes may be available in the office when closed. |
+| McDowell | Dysartsville Christian Ministries Food Pantry | 174 Trinity Church Loop, Nebo, NC | (828) 448-9054 | Thursday 3:30 PM – 5:00 PM. |
+| McDowell | Clinchfield United Methodist Church Food Pantry | 151 Ridge Road, Marion, NC 28752 | (828) 652-2759 | Thursdays 11:00 AM – 12:30 PM; Drive-thru service (two food boxes per vehicle). |
+| McDowell | Providence UMC | 83 Providence Rd, Marion, NC 28752 | (828) 738-3142 | Thursdays 12:00 PM until food is out. |
+| McDowell | West Marion Community Forum - Addie's Chapel UMC | 201 Ridley St, Marion, NC 28752 | (828) 299-3663 | 4th Thursday of each month, 3:30 PM – 5:30 PM. |
+| McDowell | Foothills Food Hub - Salem Freewill Baptist Church | 407 Salem Church Rd, Old Fort, NC 28762 | (828) 659-5289 | Mondays 2:00 PM – 4:00 PM; Drive-through pantry. |
+| McDowell | Foothills Food Hub - Jacktown Distribution | 608 Jacktown Rd, Marion, NC | (828) 659-5289 | 2nd & 4th Tuesdays, 4:00 PM - 5:00 PM; Drive-through pantry. |
+| McDowell | YMCA Mobile Market - A.C. Bud Hogan Community Center | 32 East Main St., Old Fort, NC | (828) 775-7081 | Last Thursday of the Month 10:30 AM - 11:30 AM; Produce Distribution. |
+| McDowell | Loving Hearts Bear Closet (Hot Meal) | 337 Garden Creek Rd, Marion, NC 28752 | (828) 803-8790 | Hot Meal; Pre-order by calling Wednesday 2:00 PM – 4:00 PM. |
+| McDowell | McDowell Mission Ministries | 804 STATE STREET, MARION, NC | (828) 659-3981 | Every Other Saturday (Please call to confirm schedule). |
 | Mecklenburg | Calvary Nazarene Church | 4000 North Sharon Amity Road, Charlotte | 704-536-6485 | Open 2nd & 4th Tuesdays monthly, 2–4 p.m. |
 | Mecklenburg | Camino | 201 Stetson Drive, Charlotte | 704-596-5606 | Open Tue–Fri, 3–5 p.m. |
 | Mecklenburg | Care Ring Pantry | 1514 N. Graham St., Charlotte | 704-375-0172 | Open Tuesdays, 9–11:30 a.m. |
@@ -225,7 +265,6 @@ Call ahead to make an appointment for food pickup |
 | Mitchell | Bakersville United Methodist Church | 23 N. Mitchell Ave, Bakersville | 828-688-2311 | Open Wednesdays, 9 a.m.–12 p.m. |
 | Mitchell | Crossroads Mission | 210 Oak Street, Spruce Pine | 828-765-4055 | Call for appointment |
 | Mitchell | Spruce Pine Church of God | 201 Church Street, Spruce Pine | 828-765-3396 | Open 1st & 3rd Thursdays, 2–4 p.m. |
-| Mitchell | No listings available | | | |
 | Montgomery | Montgomery County DSS Food Pantry | 133 West Morgan Street, Troy | 910-576-6011 | Open Mon–Fri, 9 a.m.–4 p.m.; call ahead for eligibility |
 | Montgomery | First Baptist Church Food Pantry | 201 S. Main Street, Troy | 910-576-2975 | Open 2nd & 4th Tuesdays, 9 a.m.–12 p.m. |
 | Montgomery | Trinity United Methodist Church | 123 Church Street, Star | 910-573-2371 | Open 1st & 3rd Thursdays, 10 a.m.–1 p.m. |
@@ -265,6 +304,7 @@ Call ahead to make an appointment for food pickup |
 | Pender | Hampstead United Methodist Church Food Pantry | 196 US-17, Hampstead | 910-270-5561 | Open 1st & 3rd Wednesdays, 10 a.m.–12 p.m. |
 | Pender | Burgaw First Baptist Church Pantry | 201 N Wright St, Burgaw | 910-259-2621 | Open Thursdays, 10 a.m.–1 p.m. |
 | Pender | Topsail Area Ministries | 604 US-17, Hampstead | 910-270-9989 | Open Mon–Fri, 9 a.m.–3 p.m. |
+| Perquimans | The Open Door Food Pantry (Town of Hertford) | 293 Creek Drive, Hertford, NC 27944 | 252-421-3700 | Mon & Wed, 10:00 a.m. – 12:00 p.m.; Thu, 4:00 p.m. – 6:00 p.m. Serves Perquimans County residents. |
 | Perquimans | Perquimans County Senior Services Pantry | 305 N Edenton Rd, Hertford | 252-426-5870 | Open Mon–Fri, 8 a.m.–5 p.m. |
 | Perquimans | Holy Trinity Episcopal Church Food Pantry | 220 N Church St, Hertford | 252-426-2990 | Open 2nd & 4th Thursdays, 9 a.m.–12 p.m. |
 | Person | Person County DSS Food Pantry | 304 S Morgan St, Roxboro | 336-599-1711 | Open Mon–Fri, 8 a.m.–5 p.m.; call ahead |
@@ -313,7 +353,9 @@ Call ahead to make an appointment for food pickup |
 | Stanly | Stanly Christian Ministry – Albemarle | 506 S. First St., Albemarle | 704-982-7915 | Pantry Mon–Thu 9 a.m.–4 p.m., Fri 9 a.m.–noon; Soup kitchen daily 11 a.m.–12:30 p.m. |
 | Stanly | Stanly Christian Ministry Norwood | 247 W. Turner St., Norwood | 704-982-7915 | Pantry Mon 2–6 p.m.; Soup kitchen daily 11 a.m.–12:30 p.m. |
 | Stanly | West Stanly Christian Ministries | 100 S. Love Chapel Rd., Stanfield | 704-888-6406 | Open Mon–Fri 9 a.m.–3 p.m. |
-| Tyrrell County | No listings available | | | |
+| Tyrrell | Mobile Food Pantry (Tyrrell Hall) | 832 US Hwy 64 East, Columbia, NC 27925 | Contact Food Bank of the Albemarle: 252-335-4035 | 4th Tuesday of every month, 4:30 p.m. – 6:30 p.m. Open to everyone. |
+| Tyrrell | Mobile Food Pantry (Iglesia Baptist Church) | 920 Main St, Columbia, NC | Contact Food Bank of the Albemarle: 252-335-4035 | 3rd Saturday of every month, 9:00 a.m. – 12:00 p.m. Open to everyone. |
+| Tyrrell | Senior Food Box (CSFP) | 904 Hwy 64 E, Columbia, NC | Contact Food Bank of the Albemarle: 252-335-4035 | 3rd Friday of each month, 10:00 a.m. – 12:00 p.m. For individuals 60 and up. Must be signed up. |
 | Union | Common Heart Common Cupboard - Stallings United Methodist | 1115 Stallings Road, Stallings | 704-218-9060 | Open Fridays, 7–8 p.m. |
 | Union | Common Heart at Union United Methodist Church | 6315 New Town Road, Waxhaw | 704-218-9060 | Open Thursdays, 7–8 p.m. |
 | Union | Common Heart at Wingate Baptist Church | 109 East Elm St., Wingate | 704-218-9060 | Open Tuesdays, 7–8 p.m. |
@@ -333,7 +375,25 @@ Call ahead to make an appointment for food pickup |
 | Watauga | Little Free Pantry of Boone | 130 Poplar Grove Road Connector, Boone | 828-773-8199 | Always open |
 | Watauga | Mountaineer Food Hub and Food Pantry Network | Various locations around Appalachian State University campuses | | Available to students, staff, and faculty |
 | Watauga | Western Watauga Food Outreach free community meal | 1081 Old US Highway 421, Sugar Grove | 828-297-6233 | Served Thursdays, 4–6 p.m. |
-| Wayne | No listings available | | | |
-| Wilson | No listings available | | | |
-| Yadkin | No listings available | | | |
-| Yancey County | No listings available | | | |
+| Wayne | Community Soup Kitchen of Goldsboro | 112 West Oak Street, Goldsboro, NC 27530 | (919) 731-3939 | Hot meals served Monday–Saturday, 11:00 a.m.–12:00 p.m. |
+| Wayne | The Salvation Army of Goldsboro (Food Pantry) | 610 N. William Street, Goldsboro, NC 27530 | (919) 735-4811 | Social Services (Food Pantry assistance) Mon–Thu, 9:00 a.m.–4:00 p.m. (Closed 12 p.m.–1 p.m. for lunch). Call ahead. |
+| Wayne | HGDC Community Crisis Center | 607 South Slocumb Street, Goldsboro, NC 27530 | (919) 734-6836 | Food Pantry: Tue & Fri, 12:30 p.m.–3:00 p.m. Carry-out Lunch: Tue & Fri, 1:00 p.m.–2:15 p.m. |
+| Wayne | United Church Ministries of Wayne County, Inc. | 119 West Walnut Street, Goldsboro, NC 27530 | (919) 734-0480 | Provides Food Pantry services. Call for current hours and eligibility. |
+| Wayne | Area Churches in Action | 104 South Center Street, Mount Olive, NC 28365 | (919) 658-0942 | Food Pantry serving Mount Olive area. Call for current hours and eligibility. |
+| Wilson | Hope Station - Food Pantry | 309 Goldsboro Street East, Wilson, NC 27893 | (252) 291-7278 | Food Pantry: Mon, Wed, Fri, 9:00 a.m.–11:30 a.m. Provides a three-day supply of food once every 30 days. |
+| Wilson | Community Soup Kitchen of Wilson County, Inc. | 307 N. Railroad Street, Wilson, NC 27893 | (252) 991-6787 | Serves a hot mid-day meal to anyone who is hungry, with no qualifications required. Meals served Monday–Friday. Call for meal times. |
+| Wilson | By Faith Church Food Pantry | 4667 Evansdale Road, Wilson, NC 27893 | (252) 205-5965 | Open every second Friday of the month. Call for specific hours. |
+| Wilson | Food Project (Wilson Community Improvement Association) | 504 Green Street East, Wilson, NC 27893 | (252) 243-4855 | Addresses emergency food support and provides other support services. Call for distribution schedule. |
+| Wilson | Kairos Church Ministry Food Pantry | 1003 S Lodge St, Wilson, NC 27893 | (252) 315-2932 | Open Saturdays, 8:00 a.m.–9:00 a.m. Also available for emergencies by appointment. Call ahead. |
+| Wilson | Love N Action Outreach Inc. Food Pantry | 4036 Ward Blvd, Wilson, NC 27893 | (252) 406-2872 | Operates on the 4th Tuesday, 10:00 a.m.–12:00 p.m., and the Monday after the 4th Tuesday, 10:00 a.m.–11:00 a.m. |
+| Wilson | Spreading Seeds, Inc. (Food Bank) | 1760 Parkwood Blvd West, Wilson, NC 27893 | (252) 520-0081 | Food assistance is available Mon–Thu, 9:00 a.m.–2:30 p.m. Please call ahead for availability. |
+| Yadkin | Yadkin Christian Ministries | 117 Woodlyn Dr., Yadkinville, NC 27055 | (336) 677-3080 | Food Pantry: Monday: 4:30 p.m.–6:45 p.m.; Tuesday–Friday: 9:00 a.m.–11:45 a.m. Offers food and household items. |
+| Yadkin | Union Grove Baptist Church Food Pantry | 24001 Nebo Rd., Yadkinville, NC 27055 | (336) 961-5792 | 1st Thursday of each month at 6:00 p.m. First come, first served. |
+| Yadkin | Northwood Baptist Church Food Pantry | 1309 Northwood Church Rd., Yadkinville, NC 27055 | (336) 677-3781 | 1st Saturday of each month, 11:00 a.m.–12:00 p.m. |
+| Yadkin | Tri-County Christian Crisis Ministry | 290 N Bridge St., Elkin, NC 28642 | (Office)	(336) 526-1089 | Food Pantry: Tuesday: 5:30 p.m.–7:30 p.m.; Thursday & Saturday: 10:00 a.m.–12:00 p.m. Eligibility may be limited to residents of Jonesville, Boonville, or Hamptonville. |
+| Yadkin | Divine Redeemer Catholic Church - Food Distribution Center | 209 Lon Ave., Boonville, NC 27011 | (336) 367-7067 | Tuesday, Thursday, and Saturday: 6:00 p.m.–8:00 p.m. |
+| Yadkin | New Birth Worship Center Food Pantry | 1033 New Birth Drive, East Bend, NC 27018 | (336) 699-3583 | 1st Saturday of each month: 10:00 a.m.–1:00 p.m., and 2nd Wednesday of each month: 4:30 p.m.–6:30 p.m. |
+| Yancey | Reconciliation House - Food Pantry | 20 Academy Street, Burnsville, NC 28714 | (828) 682-7251 | Pantry Hours: Mon, Wed, Fri, 9:00 a.m.–12:00 p.m. Call ahead to reserve a time slot. Offers client-choice shopping. |
+| Yancey | FBC Giving Pantry | 51 Town Square, Burnsville, NC 28714 (First Baptist Church) | (828) 682-2288 (Church) | 24 hours/7 days a week (Self-serve box near garden). Non-perishables only. "Take what you need, give what you can." |
+| Yancey | Dig In! Community Garden - Harvest Share | West Burnsville Baptist Church, 222 West Burnsville Church Rd. | N/A | Harvest Share Market: Every Wednesday, 10:00 a.m.–12:00 p.m. (Seasonal). Offers free fresh produce. |
+| Yancey | Full Gospel Christian Church Food Pantry | 5400 State Highway 80 South, Burnsville, NC | (828) 284-0375 | Food pantry available once a month. Contact for current distribution schedule. |
