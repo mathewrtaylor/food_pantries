@@ -1,7 +1,7 @@
-# North Carolina Food Pantries by County
+# Food Assistance Organizations in North Caroliona by County
 
-| County    | Food Pantry / Soup Kitchen                                  | Address                                                                                                                    | Phone                       | Hours / Notes                                                              |
-| --------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------- | -------------------------------------------------------------------------- |
+| County | Food Pantry / Soup Kitchen | Address | Phone | Hours / Notes |
+| :--- | :--- | :--- | :--- | :--- |
 | Alamance | Blessed Sacrament/Little Portions Food Pantry | 710 Koury Drive Burlington | 336-226-8796 | 3rd Saturday of the month, 10 a.m. to 12 p.m. |
 | Alamance | Breakthrough Community Church Food Pantry | 703 S Third St, Mebane | 919-563-2867 | Tue 9 a.m. to 10:30 a.m.; Sat 9 a.m. to 10:30 a.m. |
 | Alamance | Bridging the Gap We Care Pantry | 2619 Green Level Church Rd., Green Level | 336-266-0580 | 3rd Saturday of each month 9:30 a.m. to 11:30 a.m.; 2nd and 4th Tuesday 3 p.m. - 5 p.m. |
