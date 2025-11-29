@@ -19,6 +19,7 @@ We are stronger together supporting our communities!
 - [New Hampshire](./New_Hampshire.md)
 - [New York](./New_York.md)
 - [North Carolina](North_Carolina.md)
+- [Ohio](./Ohio.md)
 - [Pennyslvania](./Pennyslvania.md)
 - [Rhode Island](./Rhode_Island.md)
 - [South Carolina](./South_Carolina.md)
